@@ -1,0 +1,52 @@
+{
+    "succinctly--midjourney-prompts": {
+        "description": "",
+        "citation": "",
+        "homepage": "",
+        "license": "",
+        "features": {
+            "text": {
+                "dtype": "string",
+                "id": null,
+                "_type": "Value"
+            }
+        },
+        "post_processed": null,
+        "supervised_keys": null,
+        "task_templates": null,
+        "builder_name": "text",
+        "config_name": "default",
+        "version": {
+            "version_str": "0.0.0",
+            "description": null,
+            "major": 0,
+            "minor": 0,
+            "patch": 0
+        },
+        "splits": {
+            "train": {
+                "name": "train",
+                "num_bytes": 15613774,
+                "num_examples": 221743,
+                "dataset_name": "midjourney-prompts"
+            },
+            "validation": {
+                "name": "validation",
+                "num_bytes": 869981,
+                "num_examples": 12318,
+                "dataset_name": "midjourney-prompts"
+            },
+            "test": {
+                "name": "test",
+                "num_bytes": 872613,
+                "num_examples": 12320,
+                "dataset_name": "midjourney-prompts"
+            }
+        },
+        "download_checksums": null,
+        "download_size": 9997727,
+        "post_processing_size": null,
+        "dataset_size": 17356368,
+        "size_in_bytes": 27354095
+    }
+}

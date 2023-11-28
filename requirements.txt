@@ -1,0 +1,7 @@
+tqdm
+transformers
+plotly
+# ideally, use > pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 if you have cuda set up
+torch 
+torchvision 
+torchaudio
