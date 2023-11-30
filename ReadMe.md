@@ -73,16 +73,16 @@ These are from the midjourney prompt dataset and contain tabular data
 This file has the following structure:
 ```json
 {
-    "name": "flavors_combine_redundant.json", // this is the name of the file
-    "nodes": [ // this is a list with the nodes
+    "name" : "flavors_combine_redundant.json", // this is the name of the file
+    "nodes" : [ // this is a list with the nodes
         { // each node is a dictionary containing the values which were deemed redundant and combined
-            "n1": "value 1", // n1 is the first redundant value and so forth
-            "n2": "redundant value 2",
-            "n3": "redundant value 3"
+            "n1" : "value 1", // n1 is the first redundant value and so forth
+            "n2" : "redundant value 2",
+            "n3" : "redundant value 3"
 			...
         },
         {
-			"n1": "value 1"
+			"n1" : "value 1"
         },
         ...
     ]
