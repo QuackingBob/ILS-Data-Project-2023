@@ -2,8 +2,8 @@
 
 ## The data
 
-The raw data is from: 
-- [ATOMATIC1111/Stable Diffusino WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+The raw data is sourced from: 
+- [ATOMATIC1111/Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [Succinctly/Midjourney Prompts](https://huggingface.co/datasets/succinctly/midjourney-prompts)
 
 All data can be found in the data directory. This directory has the following structure:
@@ -55,3 +55,29 @@ Here is a breakdown of the files and directories:
             -gitattributes (git log file from original repo)
             -README.md (readme about the prompt dataset from original author)
             -data (directory containing prompt data in train, test, val split, each as a parquet file)
+
+
+## How to run the code:
+
+1) It is recommended to make either a conda or python venv if running locally
+2) Install the requirements:
+
+> `pip install -r requirements.txt`
+
+3) To run the network graph:
+
+> ` python network_graph.py `
+
+Here is a breakdown of the different scripts:
+
+```shell
+./
+│  
+├──combine_nodes.py # this script combines entries in the flavors dataset to reduce the number of redundant nodes
+│  
+├──directory_tree.py # this script generates and prints the directory trees (you can see the result in tree.md)
+│  
+├──network_graph.py # this script actually generates the network graph from the node and edges
+│  
+└──utils.py # this python file contains utility/helper functions
+```

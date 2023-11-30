@@ -1,3 +1,4 @@
+# Full Tree
 ```bash
 ./
 │  
@@ -33,17 +34,24 @@
 │        │  
 │        └──README.md
 │  
+├──Data Management Plan.md
+│  
 ├──directory_tree.py
+│  
+├──mit license.md
 │  
 ├──network_graph.py
 │  
 ├──ReadMe.md
+│  
+├──requirements.txt
 │  
 ├──tree.md
 │  
 └──utils.py
 ```
 
+# Data Folder
 ```bash
 data/
 │  

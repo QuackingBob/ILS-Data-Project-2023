@@ -24,16 +24,18 @@ def batch_embeddings(nodes, tokenizer, text_encoder, model, device, batch_size):
         nodes, 
         padding="max_length",
         return_tensors="pt"
-    ).to(device)
+    )
+    print(f"{len(nodes)} nodes")
 
     input_ids = text_inputs.input_ids
 
     batched_input_ids = torch.split(input_ids, batch_size, dim=0)
+    print(f"{len(batched_input_ids)} batches")
     batched_embeddings = []
 
     for batch_ids in tqdm.tqdm(batched_input_ids):
-        batch_embeddings = torch.flatten(text_encoder(batch_ids)['last_hidden_state'], 1, -1)
-        batched_embeddings.append(batch_embeddings)
+        batch_embeddings = torch.flatten(text_encoder(batch_ids.to(device))['last_hidden_state'], 1, -1)
+        batched_embeddings.append(batch_embeddings.to("cpu"))
 
     result_embeddings = torch.cat(batched_embeddings, dim=0)
 
@@ -50,11 +52,12 @@ def get_models(device, index=1):
     model_id = models[index % len(models)]
     
     tokenizer = CLIPTokenizer.from_pretrained(model_id)
-    text_encoder = CLIPTextModel.from_pretrained(model_id).to(device)
-    text_encoder
-    model = CLIPModel.from_pretrained(model_id).to(device)
+    # text_encoder = CLIPTextModel.from_pretrained(model_id).to(device).half()
+    text_encoder = CLIPTextModel.from_pretrained("CompVis/stable-diffusion-v1-4", subfolder="text_encoder").half().to(device)
+    text_encoder.eval()
+    # model = CLIPModel.from_pretrained(model_id).to(device)
 
-    return tokenizer, text_encoder, model
+    return tokenizer, text_encoder, None # model
 
 def get_nodes_from_file(file):
     with open(file, "r", encoding="utf-8") as f:

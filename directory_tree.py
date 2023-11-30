@@ -5,7 +5,7 @@ elbow = "└──"
 inter = "├──"
 tab = "  "
 
-ignore = ["__pycache__"]
+ignore = ["__pycache__", ".git", ".gitignore"]
 
 def create_tree(root, depth=1, buffer=""):
     if (depth == 1):
@@ -79,6 +79,7 @@ def create_tree_file(root, out_file, depth=1, buffer=""):
 
 def main():
     root_dirs = ["./", "data/"]
+    titles = ["Full Tree", "Data Folder"]
 
     # print to terminal
     for root in root_dirs:
@@ -88,6 +89,7 @@ def main():
     # write to markdown file
     f = open("tree.md", "w", encoding="utf-8")
     for i, root in enumerate(root_dirs):
+        f.write("# " + titles[i] + "\n")
         f.write("```bash\n")
         create_tree_file(root, f)
         f.write("```\n")

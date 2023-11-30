@@ -6,6 +6,7 @@ from transformers import CLIPTokenizer, CLIPModel, CLIPTextModel
 import tqdm
 
 def main():
+    # WARNING: cpu would be very slow
     device = "cuda" if torch.cuda.is_available() else "cpu"
     
     tokenizer, text_encoder, model = get_models(device)
@@ -15,7 +16,7 @@ def main():
     file_name = "flavors_combine_redundant.json"
 
     theta = 0.98
-    batch_size = 8
+    batch_size = 32
 
     nodes = get_nodes_from_file(data_path)
 
