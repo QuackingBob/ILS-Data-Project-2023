@@ -31,7 +31,7 @@ def main():
     for name, embed in tqdm.tqdm(zip(nodes, node_embeddings), total=len(nodes)):
         added = False
         for i, node in enumerate(filtered_nodes):
-            if dist(embed, node["n1"][1]) >= theta:
+            if dist(embed.unsqueeze(0), node["n1"][1].unsqueeze(0)) >= theta:
                 filtered_nodes[i][f"n{len(node) + 1}"] = (name, embed)
                 added = True
                 break
