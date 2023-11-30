@@ -1,0 +1,5928 @@
+{
+    "name": "flavors_combine_redundant.json",
+    "nodes": [
+        {
+            "n1": "highly detailed\n",
+            "n2": "highly-detailed\n",
+            "n3": "highly - detailed\n"
+        },
+        {
+            "n1": "sharp focus\n"
+        },
+        {
+            "n1": "intricate\n"
+        },
+        {
+            "n1": "digital painting\n"
+        },
+        {
+            "n1": "illustration\n"
+        },
+        {
+            "n1": "octane render\n"
+        },
+        {
+            "n1": "smooth\n"
+        },
+        {
+            "n1": "8 k\n",
+            "n2": "8k\n"
+        },
+        {
+            "n1": "elegant\n"
+        },
+        {
+            "n1": "cinematic\n"
+        },
+        {
+            "n1": "4k\n",
+            "n2": "4 k\n"
+        },
+        {
+            "n1": "fantasy\n"
+        },
+        {
+            "n1": "cinematic lighting\n"
+        },
+        {
+            "n1": "detailed\n"
+        },
+        {
+            "n1": "photorealistic\n"
+        },
+        {
+            "n1": "unreal engine\n",
+            "n2": "unreal engine 5\n"
+        },
+        {
+            "n1": "masterpiece\n"
+        },
+        {
+            "n1": "realistic\n"
+        },
+        {
+            "n1": "hd\n"
+        },
+        {
+            "n1": "dramatic lighting\n",
+            "n2": "dramatic light\n"
+        },
+        {
+            "n1": "volumetric lighting\n",
+            "n2": "volumetric light\n"
+        },
+        {
+            "n1": "high detail\n"
+        },
+        {
+            "n1": "beautiful\n"
+        },
+        {
+            "n1": "hyperrealistic\n"
+        },
+        {
+            "n1": "hyper detailed\n"
+        },
+        {
+            "n1": "portrait\n"
+        },
+        {
+            "n1": "high quality\n"
+        },
+        {
+            "n1": "hyper realistic\n",
+            "n2": "hyper-realistic\n",
+            "n3": "hyper - realistic\n"
+        },
+        {
+            "n1": "ultra realistic\n",
+            "n2": "ultra-realistic\n",
+            "n3": "ultra - realistic\n"
+        },
+        {
+            "n1": "matte painting\n"
+        },
+        {
+            "n1": "ultra detailed\n",
+            "n2": "ultra-detailed\n",
+            "n3": "ultra - detailed\n"
+        },
+        {
+            "n1": "award winning\n",
+            "n2": "award - winning\n",
+            "n3": "award-winning\n"
+        },
+        {
+            "n1": "matte\n"
+        },
+        {
+            "n1": "intricate details\n"
+        },
+        {
+            "n1": "epic\n"
+        },
+        {
+            "n1": "hdr\n"
+        },
+        {
+            "n1": "extremely detailed\n"
+        },
+        {
+            "n1": "very detailed\n"
+        },
+        {
+            "n1": "oil painting\n"
+        },
+        {
+            "n1": "dynamic lighting\n"
+        },
+        {
+            "n1": "hyperdetailed\n"
+        },
+        {
+            "n1": "oil on canvas\n"
+        },
+        {
+            "n1": "high resolution\n"
+        },
+        {
+            "n1": "sharp\n"
+        },
+        {
+            "n1": "studio lighting\n"
+        },
+        {
+            "n1": "depth of field\n"
+        },
+        {
+            "n1": "hyper realism\n"
+        },
+        {
+            "n1": "full body\n",
+            "n2": "fullbody\n"
+        },
+        {
+            "n1": "colorful\n"
+        },
+        {
+            "n1": "dark\n"
+        },
+        {
+            "n1": "cyberpunk\n"
+        },
+        {
+            "n1": "octane\n"
+        },
+        {
+            "n1": "centered\n"
+        },
+        {
+            "n1": "high contrast\n"
+        },
+        {
+            "n1": "bokeh\n"
+        },
+        {
+            "n1": "global illumination\n"
+        },
+        {
+            "n1": "dramatic\n"
+        },
+        {
+            "n1": "symmetrical\n"
+        },
+        {
+            "n1": "d & d\n",
+            "n2": "d&d\n"
+        },
+        {
+            "n1": "intricate detail\n",
+            "n2": "intricate detailed\n"
+        },
+        {
+            "n1": "atmospheric\n"
+        },
+        {
+            "n1": "golden ratio\n"
+        },
+        {
+            "n1": "wide angle\n"
+        },
+        {
+            "n1": "anime\n"
+        },
+        {
+            "n1": "golden hour\n"
+        },
+        {
+            "n1": "detailed face\n"
+        },
+        {
+            "n1": "rule of thirds\n"
+        },
+        {
+            "n1": "stunning\n",
+            "n2": "gorgeous\n"
+        },
+        {
+            "n1": "vibrant colors\n",
+            "n2": "vibrant colours\n",
+            "n3": "vibrant color\n"
+        },
+        {
+            "n1": "soft lighting\n"
+        },
+        {
+            "n1": "ray tracing\n"
+        },
+        {
+            "n1": "photography\n"
+        },
+        {
+            "n1": "epic composition\n"
+        },
+        {
+            "n1": "radiant light\n"
+        },
+        {
+            "n1": "8k resolution\n",
+            "n2": "8 k resolution\n"
+        },
+        {
+            "n1": "cinematic composition\n"
+        },
+        {
+            "n1": "horror\n"
+        },
+        {
+            "n1": "vibrant\n"
+        },
+        {
+            "n1": "black and white\n"
+        },
+        {
+            "n1": "close up\n",
+            "n2": "close-up\n",
+            "n3": "close - up\n"
+        },
+        {
+            "n1": "medium shot\n"
+        },
+        {
+            "n1": "ornate\n"
+        },
+        {
+            "n1": "photo realistic\n"
+        },
+        {
+            "n1": "photo\n"
+        },
+        {
+            "n1": "vivid colors\n",
+            "n2": "vivid color\n",
+            "n3": "vivid colours\n"
+        },
+        {
+            "n1": "trending on art station\n"
+        },
+        {
+            "n1": "futuristic\n"
+        },
+        {
+            "n1": "high details\n"
+        },
+        {
+            "n1": "high definition\n"
+        },
+        {
+            "n1": "wide shot\n"
+        },
+        {
+            "n1": "movie still\n"
+        },
+        {
+            "n1": "establishing shot\n"
+        },
+        {
+            "n1": "surreal\n"
+        },
+        {
+            "n1": "gothic\n"
+        },
+        {
+            "n1": "3 d render\n",
+            "n2": "3d render\n"
+        },
+        {
+            "n1": "unreal 5\n"
+        },
+        {
+            "n1": "photograph\n"
+        },
+        {
+            "n1": "sunset\n"
+        },
+        {
+            "n1": "painting\n"
+        },
+        {
+            "n1": "sci-fi\n",
+            "n2": "sci - fi\n",
+            "n3": "sci fi\n"
+        },
+        {
+            "n1": "rim light\n"
+        },
+        {
+            "n1": "hearthstone\n"
+        },
+        {
+            "n1": "beautiful lighting\n",
+            "n2": "gorgeous lighting\n",
+            "n3": "stunning lighting\n"
+        },
+        {
+            "n1": "ambient lighting\n"
+        },
+        {
+            "n1": "moody\n"
+        },
+        {
+            "n1": "digital illustration\n"
+        },
+        {
+            "n1": "symmetrical face\n"
+        },
+        {
+            "n1": "epic lighting\n"
+        },
+        {
+            "n1": "fog\n"
+        },
+        {
+            "n1": "sakimichan\n"
+        },
+        {
+            "n1": "beautiful face\n",
+            "n2": "gorgeous face\n"
+        },
+        {
+            "n1": "soft light\n"
+        },
+        {
+            "n1": "fine details\n"
+        },
+        {
+            "n1": "dark fantasy\n"
+        },
+        {
+            "n1": "deep focus\n"
+        },
+        {
+            "n1": "night\n"
+        },
+        {
+            "n1": "3 d\n",
+            "n2": "3d\n"
+        },
+        {
+            "n1": "eerie\n"
+        },
+        {
+            "n1": "daz\n"
+        },
+        {
+            "n1": "shallow depth of field\n"
+        },
+        {
+            "n1": "atmospheric lighting\n"
+        },
+        {
+            "n1": "symmetry\n",
+            "n2": "symmetry!!\n"
+        },
+        {
+            "n1": "cute\n"
+        },
+        {
+            "n1": "studio quality\n"
+        },
+        {
+            "n1": "scifi\n"
+        },
+        {
+            "n1": "chiaroscuro\n"
+        },
+        {
+            "n1": "insanely detailed\n"
+        },
+        {
+            "n1": "white background\n"
+        },
+        {
+            "n1": "natural light\n"
+        },
+        {
+            "n1": "details\n"
+        },
+        {
+            "n1": "hard edges\n"
+        },
+        {
+            "n1": "character design\n"
+        },
+        {
+            "n1": "artistic\n"
+        },
+        {
+            "n1": "asymmetrical\n"
+        },
+        {
+            "n1": "rpg portrait\n"
+        },
+        {
+            "n1": "sunny day\n"
+        },
+        {
+            "n1": "ethereal\n"
+        },
+        {
+            "n1": "bright colors\n"
+        },
+        {
+            "n1": "raytracing\n"
+        },
+        {
+            "n1": "perfect face\n"
+        },
+        {
+            "n1": "god rays\n"
+        },
+        {
+            "n1": "psychedelic\n"
+        },
+        {
+            "n1": "35mm\n",
+            "n2": "3 5 mm\n"
+        },
+        {
+            "n1": "dynamic pose\n"
+        },
+        {
+            "n1": "steampunk\n"
+        },
+        {
+            "n1": "focus\n"
+        },
+        {
+            "n1": "extreme detail\n"
+        },
+        {
+            "n1": "full body shot\n"
+        },
+        {
+            "n1": "lifelike\n"
+        },
+        {
+            "n1": "organic painting\n"
+        },
+        {
+            "n1": "backlit\n"
+        },
+        {
+            "n1": "octane rendered\n"
+        },
+        {
+            "n1": "neon\n"
+        },
+        {
+            "n1": "foggy\n"
+        },
+        {
+            "n1": "uhd\n"
+        },
+        {
+            "n1": "4k resolution\n",
+            "n2": "4 k resolution\n"
+        },
+        {
+            "n1": "cinematic shot\n"
+        },
+        {
+            "n1": "breathtaking\n"
+        },
+        {
+            "n1": "furaffinity\n"
+        },
+        {
+            "n1": "trending\n"
+        },
+        {
+            "n1": "rutkowski\n"
+        },
+        {
+            "n1": "muted colors\n",
+            "n2": "muted colours\n"
+        },
+        {
+            "n1": "scary\n"
+        },
+        {
+            "n1": "pretty face\n"
+        },
+        {
+            "n1": "super detailed\n"
+        },
+        {
+            "n1": "smooth render\n"
+        },
+        {
+            "n1": "vray\n"
+        },
+        {
+            "n1": "vivid\n"
+        },
+        {
+            "n1": "anime style\n"
+        },
+        {
+            "n1": "volumetric\n"
+        },
+        {
+            "n1": "blender\n"
+        },
+        {
+            "n1": "film grain\n"
+        },
+        {
+            "n1": "rendered in octane\n"
+        },
+        {
+            "n1": "creepy\n"
+        },
+        {
+            "n1": "headshot\n"
+        },
+        {
+            "n1": "film still\n"
+        },
+        {
+            "n1": "low angle\n"
+        },
+        {
+            "n1": "ominous\n"
+        },
+        {
+            "n1": "cinematic light\n"
+        },
+        {
+            "n1": "high detailed\n"
+        },
+        {
+            "n1": "final fantasy\n"
+        },
+        {
+            "n1": "dnd\n"
+        },
+        {
+            "n1": "bloom\n"
+        },
+        {
+            "n1": "ultra wide angle\n"
+        },
+        {
+            "n1": "subsurface scattering\n"
+        },
+        {
+            "n1": "smoke\n"
+        },
+        {
+            "n1": "cosplay\n"
+        },
+        {
+            "n1": "very coherent\n"
+        },
+        {
+            "n1": "stylized\n"
+        },
+        {
+            "n1": "ultra hd\n"
+        },
+        {
+            "n1": "unreal engine 5 rendered\n",
+            "n2": "unreal engine 5 render\n"
+        },
+        {
+            "n1": "face\n"
+        },
+        {
+            "n1": "blue eyes\n"
+        },
+        {
+            "n1": "aesthetic\n"
+        },
+        {
+            "n1": "lens flare\n"
+        },
+        {
+            "n1": "intricate linework\n"
+        },
+        {
+            "n1": "art\n"
+        },
+        {
+            "n1": "flowers\n"
+        },
+        {
+            "n1": "mist\n"
+        },
+        {
+            "n1": "reflections\n",
+            "n2": "reflection\n"
+        },
+        {
+            "n1": "long hair\n"
+        },
+        {
+            "n1": "wallpaper\n"
+        },
+        {
+            "n1": "vintage\n"
+        },
+        {
+            "n1": "focused\n"
+        },
+        {
+            "n1": "art station\n"
+        },
+        {
+            "n1": "insanely detailed and intricate\n"
+        },
+        {
+            "n1": "smiling\n"
+        },
+        {
+            "n1": "extremely high detail\n"
+        },
+        {
+            "n1": "landscape\n"
+        },
+        {
+            "n1": "profile picture\n"
+        },
+        {
+            "n1": "watercolor\n"
+        },
+        {
+            "n1": "hq\n"
+        },
+        {
+            "n1": "closeup\n"
+        },
+        {
+            "n1": "ultrarealistic\n"
+        },
+        {
+            "n1": "cartoon\n"
+        },
+        {
+            "n1": "muscular\n"
+        },
+        {
+            "n1": "dreamy\n"
+        },
+        {
+            "n1": "high fantasy\n"
+        },
+        {
+            "n1": "award winning photo\n",
+            "n2": "award - winning photo\n"
+        },
+        {
+            "n1": "minimalist\n"
+        },
+        {
+            "n1": "male\n"
+        },
+        {
+            "n1": "raw\n"
+        },
+        {
+            "n1": "black background\n"
+        },
+        {
+            "n1": "manga\n"
+        },
+        {
+            "n1": "rain\n"
+        },
+        {
+            "n1": "poster\n"
+        },
+        {
+            "n1": "realistic shaded perfect face\n"
+        },
+        {
+            "n1": "professional photography\n"
+        },
+        {
+            "n1": "clouds\n"
+        },
+        {
+            "n1": "perfect composition\n"
+        },
+        {
+            "n1": "painterly\n"
+        },
+        {
+            "n1": "grainy\n"
+        },
+        {
+            "n1": "soft focus\n"
+        },
+        {
+            "n1": "iso 200\n",
+            "n2": "iso 2 0 0\n"
+        },
+        {
+            "n1": "dslr\n"
+        },
+        {
+            "n1": "render\n"
+        },
+        {
+            "n1": "award winning photography\n",
+            "n2": "award - winning photography\n"
+        },
+        {
+            "n1": "magical\n"
+        },
+        {
+            "n1": "abstract\n"
+        },
+        {
+            "n1": "1/160s\n",
+            "n2": "1 / 1 6 0 s\n"
+        },
+        {
+            "n1": "post-processing\n",
+            "n2": "post processing\n",
+            "n3": "post - processing\n"
+        },
+        {
+            "n1": "stanley artgerm lau\n"
+        },
+        {
+            "n1": "clean\n"
+        },
+        {
+            "n1": "bright\n"
+        },
+        {
+            "n1": "realistic face\n"
+        },
+        {
+            "n1": "dystopian\n"
+        },
+        {
+            "n1": "detailed illustration\n"
+        },
+        {
+            "n1": "dynamic\n"
+        },
+        {
+            "n1": "shadows\n"
+        },
+        {
+            "n1": "intricate complexity\n"
+        },
+        {
+            "n1": "50mm\n",
+            "n2": "5 0 mm\n"
+        },
+        {
+            "n1": "magic\n"
+        },
+        {
+            "n1": "no blur\n"
+        },
+        {
+            "n1": "vaporwave\n"
+        },
+        {
+            "n1": "moody lighting\n",
+            "n2": "extremely moody lighting\n"
+        },
+        {
+            "n1": "extreme details\n"
+        },
+        {
+            "n1": "bold shapes\n"
+        },
+        {
+            "n1": "atmosphere\n"
+        },
+        {
+            "n1": "dark background\n"
+        },
+        {
+            "n1": "female\n"
+        },
+        {
+            "n1": "beautiful composition\n"
+        },
+        {
+            "n1": "bouguereau\n"
+        },
+        {
+            "n1": "glowing lights\n"
+        },
+        {
+            "n1": "cel shaded\n"
+        },
+        {
+            "n1": "painted\n"
+        },
+        {
+            "n1": "sense of awe\n"
+        },
+        {
+            "n1": "full of colour\n"
+        },
+        {
+            "n1": "symmetrical facial features\n"
+        },
+        {
+            "n1": "forest\n"
+        },
+        {
+            "n1": "macro\n"
+        },
+        {
+            "n1": "detailed painting\n"
+        },
+        {
+            "n1": "symmetrical balance\n"
+        },
+        {
+            "n1": "ultradetailed\n"
+        },
+        {
+            "n1": "glow\n"
+        },
+        {
+            "n1": "rpg\n"
+        },
+        {
+            "n1": "motion blur\n"
+        },
+        {
+            "n1": "full body portrait\n"
+        },
+        {
+            "n1": "pale skin\n"
+        },
+        {
+            "n1": "anime key visual\n"
+        },
+        {
+            "n1": "pastel colors\n",
+            "n2": "pastel colours\n"
+        },
+        {
+            "n1": "mysterious\n"
+        },
+        {
+            "n1": "synthwave\n",
+            "n2": "synthwave style\n"
+        },
+        {
+            "n1": "dark atmosphere\n"
+        },
+        {
+            "n1": "neo-gothic\n",
+            "n2": "neo - gothic\n"
+        },
+        {
+            "n1": "realistic lighting\n"
+        },
+        {
+            "n1": "mystical\n"
+        },
+        {
+            "n1": "science fiction\n"
+        },
+        {
+            "n1": "cinematic atmosphere\n"
+        },
+        {
+            "n1": "stars\n"
+        },
+        {
+            "n1": "behance hd\n"
+        },
+        {
+            "n1": "dungeons and dragons\n"
+        },
+        {
+            "n1": "f/1.4\n",
+            "n2": "f / 1. 4\n"
+        },
+        {
+            "n1": "zbrush\n"
+        },
+        {
+            "n1": "fine detail\n"
+        },
+        {
+            "n1": "colourful\n"
+        },
+        {
+            "n1": "anatomically correct\n"
+        },
+        {
+            "n1": "retro\n"
+        },
+        {
+            "n1": "highly detailed portrait\n"
+        },
+        {
+            "n1": "warm lighting\n"
+        },
+        {
+            "n1": "ultra realistic illustration\n"
+        },
+        {
+            "n1": "movie poster\n"
+        },
+        {
+            "n1": "unreal engine 5 highly rendered\n"
+        },
+        {
+            "n1": "cryengine\n"
+        },
+        {
+            "n1": "front view\n"
+        },
+        {
+            "n1": "contrast\n"
+        },
+        {
+            "n1": "natural lighting\n"
+        },
+        {
+            "n1": "godrays\n"
+        },
+        {
+            "n1": "diffuse lighting\n"
+        },
+        {
+            "n1": "sunrise\n"
+        },
+        {
+            "n1": "cosmic horror\n"
+        },
+        {
+            "n1": "realistic painting\n"
+        },
+        {
+            "n1": "post processed\n"
+        },
+        {
+            "n1": "neon lights\n",
+            "n2": "neon light\n"
+        },
+        {
+            "n1": "character art\n"
+        },
+        {
+            "n1": "dynamic composition\n"
+        },
+        {
+            "n1": "hypermaximalist\n"
+        },
+        {
+            "n1": "thomas kindkade\n"
+        },
+        {
+            "n1": "elite\n"
+        },
+        {
+            "n1": "xf iq4\n"
+        },
+        {
+            "n1": "kodachrome\n"
+        },
+        {
+            "n1": "edward hopper and james gilleard\n"
+        },
+        {
+            "n1": "symmetric\n"
+        },
+        {
+            "n1": "symbolist\n"
+        },
+        {
+            "n1": "powerful\n"
+        },
+        {
+            "n1": "geometric shapes\n"
+        },
+        {
+            "n1": "happy\n"
+        },
+        {
+            "n1": "pincushion lens effect\n"
+        },
+        {
+            "n1": "character portrait\n"
+        },
+        {
+            "n1": "path traced\n"
+        },
+        {
+            "n1": "ambient occlusion\n"
+        },
+        {
+            "n1": "luxury\n"
+        },
+        {
+            "n1": "fire\n"
+        },
+        {
+            "n1": "trees\n"
+        },
+        {
+            "n1": "gloomy\n"
+        },
+        {
+            "n1": "epic scale\n"
+        },
+        {
+            "n1": "heavy grain\n"
+        },
+        {
+            "n1": "water\n"
+        },
+        {
+            "n1": "jayison devadas\n"
+        },
+        {
+            "n1": "exquisite detail\n"
+        },
+        {
+            "n1": "gold\n"
+        },
+        {
+            "n1": "character sheet\n"
+        },
+        {
+            "n1": "soft\n"
+        },
+        {
+            "n1": "glowing\n"
+        },
+        {
+            "n1": "black hair\n"
+        },
+        {
+            "n1": "cinematic lightning\n"
+        },
+        {
+            "n1": "very realistic\n"
+        },
+        {
+            "n1": "long shot\n"
+        },
+        {
+            "n1": "realistic shading\n"
+        },
+        {
+            "n1": "unedited\n"
+        },
+        {
+            "n1": "night time\n"
+        },
+        {
+            "n1": "smooth gradients\n"
+        },
+        {
+            "n1": "arcane\n"
+        },
+        {
+            "n1": "blade runner\n"
+        },
+        {
+            "n1": "au naturel\n"
+        },
+        {
+            "n1": "octopath traveler\n"
+        },
+        {
+            "n1": "polaroid photo\n"
+        },
+        {
+            "n1": "ufotable\n"
+        },
+        {
+            "n1": "brush stroke\n"
+        },
+        {
+            "n1": "hyper-detailed\n",
+            "n2": "hyper - detailed\n"
+        },
+        {
+            "n1": "airbrush\n"
+        },
+        {
+            "n1": "iridescent\n"
+        },
+        {
+            "n1": "blue sky\n"
+        },
+        {
+            "n1": "black\n"
+        },
+        {
+            "n1": "film\n"
+        },
+        {
+            "n1": "mid-shot\n"
+        },
+        {
+            "n1": "simple\n"
+        },
+        {
+            "n1": "splash art\n"
+        },
+        {
+            "n1": "ambient light\n"
+        },
+        {
+            "n1": "very detailed face\n"
+        },
+        {
+            "n1": "majestic\n"
+        },
+        {
+            "n1": "amazing detail\n",
+            "n2": "amazing details\n",
+            "n3": "incredible detail\n"
+        },
+        {
+            "n1": "complex\n"
+        },
+        {
+            "n1": "space\n"
+        },
+        {
+            "n1": "fantasy artwork\n"
+        },
+        {
+            "n1": "4k uhd image\n",
+            "n2": "4 k uhd image\n"
+        },
+        {
+            "n1": "16k\n",
+            "n2": "1 6 k\n"
+        },
+        {
+            "n1": "highly detailed face\n"
+        },
+        {
+            "n1": "beautiful eyes\n"
+        },
+        {
+            "n1": "johnson ting\n"
+        },
+        {
+            "n1": "glowing eyes\n"
+        },
+        {
+            "n1": "hd quality\n"
+        },
+        {
+            "n1": "cgi\n"
+        },
+        {
+            "n1": "8k photorealistic\n",
+            "n2": "8 k photorealistic\n"
+        },
+        {
+            "n1": "modern\n"
+        },
+        {
+            "n1": "upper body\n"
+        },
+        {
+            "n1": "mitchell mohrhauser\n"
+        },
+        {
+            "n1": "unreal engine 4k\n"
+        },
+        {
+            "n1": "handsome\n"
+        },
+        {
+            "n1": "detailed textures\n"
+        },
+        {
+            "n1": "peter konig\n"
+        },
+        {
+            "n1": "gritty\n"
+        },
+        {
+            "n1": "madhouse\n"
+        },
+        {
+            "n1": "pretty\n"
+        },
+        {
+            "n1": "hard lighting\n"
+        },
+        {
+            "n1": "coherent\n"
+        },
+        {
+            "n1": "dark shadows\n"
+        },
+        {
+            "n1": "tarot card\n"
+        },
+        {
+            "n1": "wide lens\n"
+        },
+        {
+            "n1": "rossdraws global illumination\n"
+        },
+        {
+            "n1": "romantic\n"
+        },
+        {
+            "n1": "full color\n",
+            "n2": "full colour\n"
+        },
+        {
+            "n1": "impressionist painting\n"
+        },
+        {
+            "n1": "blue\n"
+        },
+        {
+            "n1": "official media\n"
+        },
+        {
+            "n1": "realistic shaded\n"
+        },
+        {
+            "n1": "star wars\n"
+        },
+        {
+            "n1": "isometric\n"
+        },
+        {
+            "n1": "david lazar\n"
+        },
+        {
+            "n1": "cosmic\n"
+        },
+        {
+            "n1": "octane rendering\n"
+        },
+        {
+            "n1": "aaron horkey\n"
+        },
+        {
+            "n1": "photoreal\n"
+        },
+        {
+            "n1": "cell shaded\n"
+        },
+        {
+            "n1": "monochrome\n"
+        },
+        {
+            "n1": "green eyes\n"
+        },
+        {
+            "n1": "vfx\n"
+        },
+        {
+            "n1": "matte print\n"
+        },
+        {
+            "n1": "surrealist\n"
+        },
+        {
+            "n1": "evil\n"
+        },
+        {
+            "n1": "red\n"
+        },
+        {
+            "n1": "zabrocki\n"
+        },
+        {
+            "n1": "polaroid\n"
+        },
+        {
+            "n1": "real life\n"
+        },
+        {
+            "n1": "perfect symmetry\n"
+        },
+        {
+            "n1": "kyoto studio\n"
+        },
+        {
+            "n1": "award winning photograph\n",
+            "n2": "award-winning photograph\n",
+            "n3": "award - winning photograph\n"
+        },
+        {
+            "n1": "sharp foccus ilustration\n"
+        },
+        {
+            "n1": "face enhance\n"
+        },
+        {
+            "n1": "food photography\n"
+        },
+        {
+            "n1": "refined\n"
+        },
+        {
+            "n1": "intense\n"
+        },
+        {
+            "n1": "ultra detail\n"
+        },
+        {
+            "n1": "pixar style\n"
+        },
+        {
+            "n1": "misty\n"
+        },
+        {
+            "n1": "dnd character art portrait\n"
+        },
+        {
+            "n1": "vibrant color scheme\n"
+        },
+        {
+            "n1": "lighting\n"
+        },
+        {
+            "n1": "calm\n"
+        },
+        {
+            "n1": "beautifully lit\n"
+        },
+        {
+            "n1": "studio light\n"
+        },
+        {
+            "n1": "anamorphic lens flare\n"
+        },
+        {
+            "n1": "full of details\n"
+        },
+        {
+            "n1": "furry\n"
+        },
+        {
+            "n1": "lightning\n"
+        },
+        {
+            "n1": "full round face\n"
+        },
+        {
+            "n1": "lovecraftian\n"
+        },
+        {
+            "n1": "intricately detailed\n"
+        },
+        {
+            "n1": "sharp high detail\n"
+        },
+        {
+            "n1": "unreal engine render\n"
+        },
+        {
+            "n1": "micro details\n"
+        },
+        {
+            "n1": "organic\n"
+        },
+        {
+            "n1": "overdetailed art\n"
+        },
+        {
+            "n1": "plain background\n"
+        },
+        {
+            "n1": "realistic proportions\n"
+        },
+        {
+            "n1": "white\n"
+        },
+        {
+            "n1": "dust\n"
+        },
+        {
+            "n1": "angular\n"
+        },
+        {
+            "n1": "8 k high definition\n",
+            "n2": "8k high definition\n"
+        },
+        {
+            "n1": "pixar and disney animation\n"
+        },
+        {
+            "n1": "summer vibrancy\n"
+        },
+        {
+            "n1": "professional\n"
+        },
+        {
+            "n1": "regal\n"
+        },
+        {
+            "n1": "cyborg\n"
+        },
+        {
+            "n1": "cybernetic\n"
+        },
+        {
+            "n1": "full shot\n"
+        },
+        {
+            "n1": "caustics\n"
+        },
+        {
+            "n1": "cinema 4 d\n",
+            "n2": "cinema 4d\n"
+        },
+        {
+            "n1": "hard focus\n"
+        },
+        {
+            "n1": "pen and ink\n"
+        },
+        {
+            "n1": "clear\n"
+        },
+        {
+            "n1": "excellent composition\n",
+            "n2": "great composition\n"
+        },
+        {
+            "n1": "raining\n"
+        },
+        {
+            "n1": "mars ravelo and greg rutkowski\n"
+        },
+        {
+            "n1": "good lighting\n"
+        },
+        {
+            "n1": "surreal photography\n"
+        },
+        {
+            "n1": "much wow\n"
+        },
+        {
+            "n1": "amazing\n"
+        },
+        {
+            "n1": "delicate\n"
+        },
+        {
+            "n1": "at night\n"
+        },
+        {
+            "n1": "wires\n"
+        },
+        {
+            "n1": "soft lights\n"
+        },
+        {
+            "n1": "props\n"
+        },
+        {
+            "n1": "grunge aesthetic\n"
+        },
+        {
+            "n1": "fractal\n"
+        },
+        {
+            "n1": "medieval\n"
+        },
+        {
+            "n1": "studio photography\n"
+        },
+        {
+            "n1": "shiny\n"
+        },
+        {
+            "n1": "dramatic pose\n"
+        },
+        {
+            "n1": "fashion photography\n"
+        },
+        {
+            "n1": "official art\n"
+        },
+        {
+            "n1": "graceful\n"
+        },
+        {
+            "n1": "matte fantasy painting\n"
+        },
+        {
+            "n1": "highly detailed digital art\n"
+        },
+        {
+            "n1": "epic scene\n"
+        },
+        {
+            "n1": "studio photo\n"
+        },
+        {
+            "n1": "detailed digital art\n"
+        },
+        {
+            "n1": "overwatch\n"
+        },
+        {
+            "n1": "nebula\n"
+        },
+        {
+            "n1": "texture\n"
+        },
+        {
+            "n1": "scenery\n"
+        },
+        {
+            "n1": "digital\n"
+        },
+        {
+            "n1": "thierry doizon\n"
+        },
+        {
+            "n1": "fantasy character portrait\n"
+        },
+        {
+            "n1": "dof\n"
+        },
+        {
+            "n1": "canon\n"
+        },
+        {
+            "n1": "trending on artstation hq\n"
+        },
+        {
+            "n1": "150mp\n"
+        },
+        {
+            "n1": "intricate line drawings\n"
+        },
+        {
+            "n1": "magic the gathering\n"
+        },
+        {
+            "n1": "ignacio fernandez rios\n"
+        },
+        {
+            "n1": "kim jung gi\n"
+        },
+        {
+            "n1": "vogue\n"
+        },
+        {
+            "n1": "realistic photo\n"
+        },
+        {
+            "n1": "symmetrical eyes\n"
+        },
+        {
+            "n1": "mountains\n"
+        },
+        {
+            "n1": "full of color\n"
+        },
+        {
+            "n1": "attractive\n"
+        },
+        {
+            "n1": "perfect lighting\n"
+        },
+        {
+            "n1": "kai carpenter\n"
+        },
+        {
+            "n1": "award winning art\n",
+            "n2": "award-winning art\n",
+            "n3": "award winning artwork\n"
+        },
+        {
+            "n1": "character concept\n",
+            "n2": "character concept design\n"
+        },
+        {
+            "n1": "laurie greasley\n"
+        },
+        {
+            "n1": "brown\n"
+        },
+        {
+            "n1": "wet\n"
+        },
+        {
+            "n1": "maya\n"
+        },
+        {
+            "n1": "rich colors\n"
+        },
+        {
+            "n1": "high fashion\n"
+        },
+        {
+            "n1": "nature\n"
+        },
+        {
+            "n1": "brush strokes\n"
+        },
+        {
+            "n1": "glass\n"
+        },
+        {
+            "n1": "liminal space\n"
+        },
+        {
+            "n1": "macro lens\n"
+        },
+        {
+            "n1": "magical atmosphere\n"
+        },
+        {
+            "n1": "redshift\n"
+        },
+        {
+            "n1": "kitbash\n"
+        },
+        {
+            "n1": "nostalgic\n",
+            "n2": "nostalgia\n"
+        },
+        {
+            "n1": "extra crisp\n"
+        },
+        {
+            "n1": "warm colors\n"
+        },
+        {
+            "n1": "anatomical\n"
+        },
+        {
+            "n1": "intricate oil painting\n"
+        },
+        {
+            "n1": "sketch\n"
+        },
+        {
+            "n1": "magic the gathering artwork\n"
+        },
+        {
+            "n1": "sharp details\n",
+            "n2": "sharp detail\n"
+        },
+        {
+            "n1": "blur\n"
+        },
+        {
+            "n1": "iridescent accents\n"
+        },
+        {
+            "n1": "extremely hyper - detailed\n",
+            "n2": "extremely hyper detailed\n"
+        },
+        {
+            "n1": "tilt shift\n"
+        },
+        {
+            "n1": "rtx\n"
+        },
+        {
+            "n1": "cinematic focus\n"
+        },
+        {
+            "n1": "volumetric lights\n"
+        },
+        {
+            "n1": "crisp\n"
+        },
+        {
+            "n1": "moon\n"
+        },
+        {
+            "n1": "adobe lightroom\n"
+        },
+        {
+            "n1": "rendered in unreal engine 5\n",
+            "n2": "rendered in unreal engine\n"
+        },
+        {
+            "n1": "very very detailed\n"
+        },
+        {
+            "n1": "vector\n"
+        },
+        {
+            "n1": "walton ford\n"
+        },
+        {
+            "n1": "8 5 mm f 1. 8\n"
+        },
+        {
+            "n1": "concept design\n"
+        },
+        {
+            "n1": "elden ring\n"
+        },
+        {
+            "n1": "red hair\n"
+        },
+        {
+            "n1": "in-frame\n",
+            "n2": "in - frame\n"
+        },
+        {
+            "n1": "product photography\n"
+        },
+        {
+            "n1": "zenith view\n"
+        },
+        {
+            "n1": "biomechanical\n"
+        },
+        {
+            "n1": "key visual\n"
+        },
+        {
+            "n1": "whimsical\n"
+        },
+        {
+            "n1": "extremely hyperdetailed\n"
+        },
+        {
+            "n1": "dusk\n"
+        },
+        {
+            "n1": "hdri\n"
+        },
+        {
+            "n1": "low poly\n"
+        },
+        {
+            "n1": "dieselpunk\n"
+        },
+        {
+            "n1": "intimidating lighting\n"
+        },
+        {
+            "n1": "line art\n"
+        },
+        {
+            "n1": "magnificent\n"
+        },
+        {
+            "n1": "4 k hd\n",
+            "n2": "4k hd\n"
+        },
+        {
+            "n1": "blonde hair\n"
+        },
+        {
+            "n1": "wide angle lens\n"
+        },
+        {
+            "n1": "warhammer\n"
+        },
+        {
+            "n1": "jimmy nelsson\n"
+        },
+        {
+            "n1": "short hair\n"
+        },
+        {
+            "n1": "zeiss lens\n"
+        },
+        {
+            "n1": "super realistic\n"
+        },
+        {
+            "n1": "white hair\n"
+        },
+        {
+            "n1": "photolab\n"
+        },
+        {
+            "n1": "promotional image\n"
+        },
+        {
+            "n1": "lord of the rings\n"
+        },
+        {
+            "n1": "accurate\n"
+        },
+        {
+            "n1": "movie still frame\n"
+        },
+        {
+            "n1": "action pose\n"
+        },
+        {
+            "n1": "grotesque\n"
+        },
+        {
+            "n1": "sophisticated\n"
+        },
+        {
+            "n1": "detailed product photo\n"
+        },
+        {
+            "n1": "brown eyes\n"
+        },
+        {
+            "n1": "aesthetic octane render\n"
+        },
+        {
+            "n1": "triadic color scheme\n"
+        },
+        {
+            "n1": "character concept art\n"
+        },
+        {
+            "n1": "long lens\n"
+        },
+        {
+            "n1": "color\n"
+        },
+        {
+            "n1": "sacred geometry\n"
+        },
+        {
+            "n1": "anamorphic\n"
+        },
+        {
+            "n1": "veins\n"
+        },
+        {
+            "n1": "cinestill\n"
+        },
+        {
+            "n1": "tristan eaton\n"
+        },
+        {
+            "n1": "hints of yayoi kasuma\n"
+        },
+        {
+            "n1": "epic fantasy\n"
+        },
+        {
+            "n1": "peaceful\n"
+        },
+        {
+            "n1": "screenshot\n"
+        },
+        {
+            "n1": "drawing\n"
+        },
+        {
+            "n1": "dark colors\n"
+        },
+        {
+            "n1": "incredible art\n"
+        },
+        {
+            "n1": "marvel comics\n"
+        },
+        {
+            "n1": "kyoto animation\n"
+        },
+        {
+            "n1": "sad\n"
+        },
+        {
+            "n1": "ue 5\n",
+            "n2": "ue5\n"
+        },
+        {
+            "n1": "stunning scene\n"
+        },
+        {
+            "n1": "sunny\n"
+        },
+        {
+            "n1": "marvel\n"
+        },
+        {
+            "n1": "visionary\n"
+        },
+        {
+            "n1": "ultra high detail\n"
+        },
+        {
+            "n1": "mass effect\n"
+        },
+        {
+            "n1": "side view\n"
+        },
+        {
+            "n1": "nikon\n"
+        },
+        {
+            "n1": "iris van herpen\n"
+        },
+        {
+            "n1": "8 k hd resolution\n",
+            "n2": "8k hd resolution\n"
+        },
+        {
+            "n1": "biopunk\n"
+        },
+        {
+            "n1": "back view\n"
+        },
+        {
+            "n1": "minimal\n"
+        },
+        {
+            "n1": "low light\n"
+        },
+        {
+            "n1": "in focus\n"
+        },
+        {
+            "n1": "macro photography\n"
+        },
+        {
+            "n1": "2 d sprites\n"
+        },
+        {
+            "n1": "clear focus\n"
+        },
+        {
+            "n1": "realistic render\n"
+        },
+        {
+            "n1": "full moon\n"
+        },
+        {
+            "n1": "freckles\n"
+        },
+        {
+            "n1": "serene\n"
+        },
+        {
+            "n1": "kawaii\n"
+        },
+        {
+            "n1": "mechanical\n"
+        },
+        {
+            "n1": "terrifying\n"
+        },
+        {
+            "n1": "cinematic lighting + masterpiece\n"
+        },
+        {
+            "n1": "halo\n"
+        },
+        {
+            "n1": "rich deep moody colors\n"
+        },
+        {
+            "n1": "maximalist\n"
+        },
+        {
+            "n1": "detailed eyes\n"
+        },
+        {
+            "n1": "wild\n"
+        },
+        {
+            "n1": "35mm lens\n",
+            "n2": "3 5 mm lens\n"
+        },
+        {
+            "n1": "architecture\n"
+        },
+        {
+            "n1": "abstract brush strokes\n"
+        },
+        {
+            "n1": "polarizing filter\n"
+        },
+        {
+            "n1": "amazing depth\n"
+        },
+        {
+            "n1": "f1.4\n",
+            "n2": "f 1. 8\n",
+            "n3": "f 1. 4\n"
+        },
+        {
+            "n1": "woman\n"
+        },
+        {
+            "n1": "nightmare\n"
+        },
+        {
+            "n1": "rim lighting\n"
+        },
+        {
+            "n1": "alien\n"
+        },
+        {
+            "n1": "blood\n"
+        },
+        {
+            "n1": "galaxy\n"
+        },
+        {
+            "n1": "redshift render\n"
+        },
+        {
+            "n1": "polished\n"
+        },
+        {
+            "n1": "anamorphic lens\n"
+        },
+        {
+            "n1": "depth\n"
+        },
+        {
+            "n1": "angry\n"
+        },
+        {
+            "n1": "hyperreal\n"
+        },
+        {
+            "n1": "studio\n"
+        },
+        {
+            "n1": "light\n"
+        },
+        {
+            "n1": "winter\n"
+        },
+        {
+            "n1": "moonlight\n"
+        },
+        {
+            "n1": "expressive\n"
+        },
+        {
+            "n1": "glitch art\n"
+        },
+        {
+            "n1": "photoshop\n"
+        },
+        {
+            "n1": "insane details\n"
+        },
+        {
+            "n1": "particulate\n"
+        },
+        {
+            "n1": "artwork\n"
+        },
+        {
+            "n1": "highly detailed oil painting\n",
+            "n2": "extremely detailed oil painting\n"
+        },
+        {
+            "n1": "clean lines\n"
+        },
+        {
+            "n1": "in gouache detailed paintings\n"
+        },
+        {
+            "n1": "creative\n"
+        },
+        {
+            "n1": "fashion\n"
+        },
+        {
+            "n1": "lostfish\n"
+        },
+        {
+            "n1": "brush hard\n"
+        },
+        {
+            "n1": "greg tocchini\n"
+        },
+        {
+            "n1": "backlighting\n"
+        },
+        {
+            "n1": "filmic\n"
+        },
+        {
+            "n1": "ink\n"
+        },
+        {
+            "n1": "beautiful detailed\n"
+        },
+        {
+            "n1": "very detailed faces\n"
+        },
+        {
+            "n1": "funny\n"
+        },
+        {
+            "n1": "j. c. leyendecker 8 k\n"
+        },
+        {
+            "n1": "fantasy style\n"
+        },
+        {
+            "n1": "dramatic cinematic lighting\n"
+        },
+        {
+            "n1": "evening\n"
+        },
+        {
+            "n1": "anime art\n"
+        },
+        {
+            "n1": "punk\n"
+        },
+        {
+            "n1": "eye contact\n"
+        },
+        {
+            "n1": "baroque painting\n"
+        },
+        {
+            "n1": "astrophotography\n"
+        },
+        {
+            "n1": "short smile\n"
+        },
+        {
+            "n1": "8k artistic photography\n",
+            "n2": "8 k artistic photography\n"
+        },
+        {
+            "n1": "red eyes\n"
+        },
+        {
+            "n1": "kodak portra 4 0 0\n",
+            "n2": "kodak portra 400\n"
+        },
+        {
+            "n1": "well - rendered\n",
+            "n2": "well-rendered\n"
+        },
+        {
+            "n1": "renaissance painting\n"
+        },
+        {
+            "n1": "very inspirational\n"
+        },
+        {
+            "n1": "\u0192 1. 8\n",
+            "n2": "\u01921.8\n"
+        },
+        {
+            "n1": "summer\n"
+        },
+        {
+            "n1": "blunt borders\n"
+        },
+        {
+            "n1": "very intricate\n"
+        },
+        {
+            "n1": "explosions\n"
+        },
+        {
+            "n1": "gloomhaven\n"
+        },
+        {
+            "n1": "blurry\n"
+        },
+        {
+            "n1": "mariusz lewandowski\n"
+        },
+        {
+            "n1": "inked\n"
+        },
+        {
+            "n1": "geometric\n"
+        },
+        {
+            "n1": "finely detailed\n"
+        },
+        {
+            "n1": "photo-realistic\n",
+            "n2": "photo - realistic\n"
+        },
+        {
+            "n1": "snow\n"
+        },
+        {
+            "n1": "emotional\n"
+        },
+        {
+            "n1": "bloodborne\n"
+        },
+        {
+            "n1": "canon eos c 3 0 0\n",
+            "n2": "canon eos c300\n"
+        },
+        {
+            "n1": "medium - format print\n",
+            "n2": "medium-format print\n"
+        },
+        {
+            "n1": "cozy\n"
+        },
+        {
+            "n1": "wind\n"
+        },
+        {
+            "n1": "victorian\n"
+        },
+        {
+            "n1": "dragon art\n"
+        },
+        {
+            "n1": "fine - face\n",
+            "n2": "fine-face\n"
+        },
+        {
+            "n1": "adorable\n"
+        },
+        {
+            "n1": "3 5 mm film grain\n",
+            "n2": "35mm film grain\n"
+        },
+        {
+            "n1": "acrylic on canvas\n"
+        },
+        {
+            "n1": "light rays\n"
+        },
+        {
+            "n1": "sensual\n"
+        },
+        {
+            "n1": "sunlight\n"
+        },
+        {
+            "n1": "grass\n"
+        },
+        {
+            "n1": "hazy\n"
+        },
+        {
+            "n1": "digital photography\n"
+        },
+        {
+            "n1": "octane renderer\n"
+        },
+        {
+            "n1": "phuoc quan\n"
+        },
+        {
+            "n1": "green\n"
+        },
+        {
+            "n1": "wide angle shot\n",
+            "n2": "wide angle view\n"
+        },
+        {
+            "n1": "ice\n"
+        },
+        {
+            "n1": "spooky\n"
+        },
+        {
+            "n1": "michael kaluta\n"
+        },
+        {
+            "n1": "olive skin\n"
+        },
+        {
+            "n1": "figurine\n"
+        },
+        {
+            "n1": "very beautiful\n"
+        },
+        {
+            "n1": "underwater\n"
+        },
+        {
+            "n1": "foto realistic\n"
+        },
+        {
+            "n1": "photo realism\n"
+        },
+        {
+            "n1": "soft details\n"
+        },
+        {
+            "n1": "android\n"
+        },
+        {
+            "n1": "mystical colors\n"
+        },
+        {
+            "n1": "apocalyptic\n"
+        },
+        {
+            "n1": "lsd\n"
+        },
+        {
+            "n1": "backlight\n"
+        },
+        {
+            "n1": "professional lighting\n"
+        },
+        {
+            "n1": "features intricate detail\n"
+        },
+        {
+            "n1": "katsuhiro otomo\n"
+        },
+        {
+            "n1": "extremely detailed masterpiece\n"
+        },
+        {
+            "n1": "nighttime\n"
+        },
+        {
+            "n1": "unreal engine highly rendered\n"
+        },
+        {
+            "n1": "stormy weather\n"
+        },
+        {
+            "n1": "alluring\n"
+        },
+        {
+            "n1": "morning\n"
+        },
+        {
+            "n1": "very very beautiful\n"
+        },
+        {
+            "n1": "seductive look\n"
+        },
+        {
+            "n1": "perfect\n"
+        },
+        {
+            "n1": "dmt\n"
+        },
+        {
+            "n1": "long exposure\n"
+        },
+        {
+            "n1": "long dark hair\n"
+        },
+        {
+            "n1": "volumetric lightning\n"
+        },
+        {
+            "n1": "haunting\n"
+        },
+        {
+            "n1": "photographic\n"
+        },
+        {
+            "n1": "dynamic perspective\n"
+        },
+        {
+            "n1": "comic style\n"
+        },
+        {
+            "n1": "real\n"
+        },
+        {
+            "n1": "western\n"
+        },
+        {
+            "n1": "half body shot\n"
+        },
+        {
+            "n1": "artstation hq\n"
+        },
+        {
+            "n1": "ghibli\n"
+        },
+        {
+            "n1": "highly detailded\n"
+        },
+        {
+            "n1": "fantasy illustration\n"
+        },
+        {
+            "n1": "game art\n"
+        },
+        {
+            "n1": "beautiful bone structure\n"
+        },
+        {
+            "n1": "much detail\n"
+        },
+        {
+            "n1": "unreal\n"
+        },
+        {
+            "n1": "blender render\n"
+        },
+        {
+            "n1": "smooth and sharp focus\n"
+        },
+        {
+            "n1": "ultra high definition\n"
+        },
+        {
+            "n1": "perfect faces\n"
+        },
+        {
+            "n1": "facial muscles\n"
+        },
+        {
+            "n1": "city\n"
+        },
+        {
+            "n1": "translucent\n"
+        },
+        {
+            "n1": "winning award masterpiece\n"
+        },
+        {
+            "n1": "comic cover art\n"
+        },
+        {
+            "n1": "aerial view\n"
+        },
+        {
+            "n1": "glasses\n"
+        },
+        {
+            "n1": "volumetric fog\n"
+        },
+        {
+            "n1": "film noir\n"
+        },
+        {
+            "n1": "fantastically gaudy\n"
+        },
+        {
+            "n1": "hd wallpaper\n"
+        },
+        {
+            "n1": "sexy\n"
+        },
+        {
+            "n1": "very sharp\n"
+        },
+        {
+            "n1": "cinematic view\n"
+        },
+        {
+            "n1": "detailed drawing\n"
+        },
+        {
+            "n1": "unreal engine 5 quality render\n"
+        },
+        {
+            "n1": "enoch bolles\n"
+        },
+        {
+            "n1": "jungle\n"
+        },
+        {
+            "n1": "river\n"
+        },
+        {
+            "n1": "skull\n"
+        },
+        {
+            "n1": "energetic\n"
+        },
+        {
+            "n1": "oil on canvas. cinematic\n"
+        },
+        {
+            "n1": "product photo\n"
+        },
+        {
+            "n1": "ross draws\n"
+        },
+        {
+            "n1": "highly detailed and intricate\n"
+        },
+        {
+            "n1": "vignette\n"
+        },
+        {
+            "n1": "no jagged lines\n"
+        },
+        {
+            "n1": "yukito kishiro\n"
+        },
+        {
+            "n1": "swirly vibrant color lines\n"
+        },
+        {
+            "n1": "excellent lighting\n"
+        },
+        {
+            "n1": "no text\n"
+        },
+        {
+            "n1": "stanley artgermm\n"
+        },
+        {
+            "n1": "blueprint\n"
+        },
+        {
+            "n1": "8 k uhd\n",
+            "n2": "8k uhd\n"
+        },
+        {
+            "n1": "palm trees\n"
+        },
+        {
+            "n1": "logo\n"
+        },
+        {
+            "n1": "post grunge\n"
+        },
+        {
+            "n1": "solarpunk\n"
+        },
+        {
+            "n1": "plants\n"
+        },
+        {
+            "n1": "4k uhd\n",
+            "n2": "4 k uhd\n"
+        },
+        {
+            "n1": "high detail illustration\n"
+        },
+        {
+            "n1": "soft painting\n"
+        },
+        {
+            "n1": "dnd character portrait\n"
+        },
+        {
+            "n1": "desaturated\n"
+        },
+        {
+            "n1": "syd mead. rich colors\n"
+        },
+        {
+            "n1": "cyberpunk style\n"
+        },
+        {
+            "n1": "masculine\n"
+        },
+        {
+            "n1": "sharp lines\n"
+        },
+        {
+            "n1": "enchanting\n"
+        },
+        {
+            "n1": "artgem\n"
+        },
+        {
+            "n1": "dragon!\n",
+            "n2": "dragon\n"
+        },
+        {
+            "n1": "flat\n"
+        },
+        {
+            "n1": "insane\n"
+        },
+        {
+            "n1": "sticker\n"
+        },
+        {
+            "n1": "turnaround\n"
+        },
+        {
+            "n1": "jeremy mann\n"
+        },
+        {
+            "n1": "colorful clouds\n"
+        },
+        {
+            "n1": "5 0 mm lens\n",
+            "n2": "50mm lens\n",
+            "n3": "40mm lens\n"
+        },
+        {
+            "n1": "dreamlike\n"
+        },
+        {
+            "n1": "thunderstorm\n"
+        },
+        {
+            "n1": "soft colors\n"
+        },
+        {
+            "n1": "kaws\n"
+        },
+        {
+            "n1": "serious\n"
+        },
+        {
+            "n1": "highly realistic\n"
+        },
+        {
+            "n1": "love\n"
+        },
+        {
+            "n1": "loony toons style\n"
+        },
+        {
+            "n1": "detailed portrait\n"
+        },
+        {
+            "n1": "liminal\n"
+        },
+        {
+            "n1": "fashion photoshoot\n"
+        },
+        {
+            "n1": "pbr\n"
+        },
+        {
+            "n1": "professional photographer\n"
+        },
+        {
+            "n1": "body horror\n"
+        },
+        {
+            "n1": "waterfall\n"
+        },
+        {
+            "n1": "young\n"
+        },
+        {
+            "n1": "canon 5 0 mm\n"
+        },
+        {
+            "n1": "tone mapping\n"
+        },
+        {
+            "n1": "mixed media\n"
+        },
+        {
+            "n1": "textured\n"
+        },
+        {
+            "n1": "sun\n"
+        },
+        {
+            "n1": "roots\n"
+        },
+        {
+            "n1": "blue and pink color scheme\n"
+        },
+        {
+            "n1": "minimalistic\n"
+        },
+        {
+            "n1": "perfect anatomy\n"
+        },
+        {
+            "n1": "extremly high detail\n"
+        },
+        {
+            "n1": "western comic book art\n"
+        },
+        {
+            "n1": "fantasy concept art\n"
+        },
+        {
+            "n1": "jurgens\n"
+        },
+        {
+            "n1": "occult\n"
+        },
+        {
+            "n1": "matte painting concept art\n"
+        },
+        {
+            "n1": "dim volumetric lighting\n"
+        },
+        {
+            "n1": "colored\n"
+        },
+        {
+            "n1": "1 9 7 0 s\n"
+        },
+        {
+            "n1": "cushart krenz\n"
+        },
+        {
+            "n1": "grim yet sparkling atmosphere\n"
+        },
+        {
+            "n1": "hyper real\n"
+        },
+        {
+            "n1": "josan gonzales and dan mumford\n"
+        },
+        {
+            "n1": "pearlescent\n"
+        },
+        {
+            "n1": "professional digital painting\n"
+        },
+        {
+            "n1": "low contrast\n"
+        },
+        {
+            "n1": "bright studio setting\n"
+        },
+        {
+            "n1": "david rudnick\n"
+        },
+        {
+            "n1": "sun rays\n",
+            "n2": "sunrays\n"
+        },
+        {
+            "n1": "cybernetics\n"
+        },
+        {
+            "n1": "cliff chiang\n"
+        },
+        {
+            "n1": "daytime\n"
+        },
+        {
+            "n1": "bones\n"
+        },
+        {
+            "n1": "agnes pelton\n"
+        },
+        {
+            "n1": "small details\n"
+        },
+        {
+            "n1": "orientalism\n"
+        },
+        {
+            "n1": "cinematography\n"
+        },
+        {
+            "n1": "fully clothed\n"
+        },
+        {
+            "n1": "perfect eyes\n"
+        },
+        {
+            "n1": "impressive\n"
+        },
+        {
+            "n1": "anime girl\n"
+        },
+        {
+            "n1": "8 k hd\n",
+            "n2": "8k hd\n"
+        },
+        {
+            "n1": "weta digital\n"
+        },
+        {
+            "n1": "pastell colours\n"
+        },
+        {
+            "n1": "fibonacci\n"
+        },
+        {
+            "n1": "brown skin\n"
+        },
+        {
+            "n1": "complementing colors\n"
+        },
+        {
+            "n1": "very intricate details\n"
+        },
+        {
+            "n1": "ilm\n"
+        },
+        {
+            "n1": "chromatic aberration\n"
+        },
+        {
+            "n1": "mandelbrot fractal\n"
+        },
+        {
+            "n1": "neutral colors\n"
+        },
+        {
+            "n1": "from scene from twin peaks\n"
+        },
+        {
+            "n1": "anatomy\n"
+        },
+        {
+            "n1": "intricate concept art\n"
+        },
+        {
+            "n1": "perfect facial symmetry\n"
+        },
+        {
+            "n1": "detailed lighting\n"
+        },
+        {
+            "n1": "octopus\n"
+        },
+        {
+            "n1": "detailed faces\n"
+        },
+        {
+            "n1": "vines\n"
+        },
+        {
+            "n1": "tattoos\n"
+        },
+        {
+            "n1": "sharp edges\n"
+        },
+        {
+            "n1": "bikini\n"
+        },
+        {
+            "n1": "houdini\n"
+        },
+        {
+            "n1": "jewelry\n"
+        },
+        {
+            "n1": "hyper realistic face\n"
+        },
+        {
+            "n1": "highly detailed digital painting\n"
+        },
+        {
+            "n1": "incredibly detailed\n"
+        },
+        {
+            "n1": "tom of finland\n"
+        },
+        {
+            "n1": "comic\n"
+        },
+        {
+            "n1": "realistic portrait\n"
+        },
+        {
+            "n1": "smooth sharp focus\n"
+        },
+        {
+            "n1": "strange\n"
+        },
+        {
+            "n1": "heroic pose\n"
+        },
+        {
+            "n1": "elegant pose\n"
+        },
+        {
+            "n1": "cinematic 4k wallpaper\n",
+            "n2": "cinematic 4 k wallpaper\n"
+        },
+        {
+            "n1": "full hd\n"
+        },
+        {
+            "n1": "action shot\n"
+        },
+        {
+            "n1": "mecha\n"
+        },
+        {
+            "n1": "decay\n"
+        },
+        {
+            "n1": "pastel\n"
+        },
+        {
+            "n1": "nier:automata inspired\n"
+        },
+        {
+            "n1": "imax\n"
+        },
+        {
+            "n1": "rob rey and kentaro miura style\n"
+        },
+        {
+            "n1": "league of legends concept art\n"
+        },
+        {
+            "n1": "realistic shaded lighting\n"
+        },
+        {
+            "n1": "professional photo\n"
+        },
+        {
+            "n1": "sinister\n"
+        },
+        {
+            "n1": "4 k wallpaper\n",
+            "n2": "4k wallpaper\n"
+        },
+        {
+            "n1": "dark lighting\n"
+        },
+        {
+            "n1": "particles\n"
+        },
+        {
+            "n1": "plasma\n"
+        },
+        {
+            "n1": "rim lights\n"
+        },
+        {
+            "n1": "physically based rendering\n"
+        },
+        {
+            "n1": "portrait photography\n"
+        },
+        {
+            "n1": "dark souls\n"
+        },
+        {
+            "n1": "photo real\n"
+        },
+        {
+            "n1": "stylish\n"
+        },
+        {
+            "n1": "epic fantasy character art\n"
+        },
+        {
+            "n1": "horror theme\n"
+        },
+        {
+            "n1": "character\n"
+        },
+        {
+            "n1": "photorealistic imagery\n"
+        },
+        {
+            "n1": "daylight\n"
+        },
+        {
+            "n1": "gapmoe yandere grimdark\n"
+        },
+        {
+            "n1": "robot\n"
+        },
+        {
+            "n1": "sweaty\n"
+        },
+        {
+            "n1": "pink\n"
+        },
+        {
+            "n1": "very beautiful scenery\n"
+        },
+        {
+            "n1": "symmetrical features\n"
+        },
+        {
+            "n1": "feminine\n"
+        },
+        {
+            "n1": "pj crook\n"
+        },
+        {
+            "n1": "key art\n"
+        },
+        {
+            "n1": "cel shading\n"
+        },
+        {
+            "n1": "gradient light blue\n"
+        },
+        {
+            "n1": "intricate environment\n"
+        },
+        {
+            "n1": "edited\n"
+        },
+        {
+            "n1": "exquisite lighting\n"
+        },
+        {
+            "n1": "fractals\n"
+        },
+        {
+            "n1": "swirling mist\n"
+        },
+        {
+            "n1": "fear\n"
+        },
+        {
+            "n1": "airbrush on canvas\n"
+        },
+        {
+            "n1": "rounded eyes\n"
+        },
+        {
+            "n1": "photorealistic portrait\n"
+        },
+        {
+            "n1": "comic book\n"
+        },
+        {
+            "n1": "armor\n"
+        },
+        {
+            "n1": "seductive\n"
+        },
+        {
+            "n1": "porcelain skin\n"
+        },
+        {
+            "n1": "from metal gear\n"
+        },
+        {
+            "n1": "looking at camera\n"
+        },
+        {
+            "n1": "beautiful landscape\n"
+        },
+        {
+            "n1": "creature\n"
+        },
+        {
+            "n1": "album cover\n"
+        },
+        {
+            "n1": "uhd 8 k\n"
+        },
+        {
+            "n1": "crepuscular rays\n"
+        },
+        {
+            "n1": "big eyes\n"
+        },
+        {
+            "n1": "weird\n"
+        },
+        {
+            "n1": "micro detail\n"
+        },
+        {
+            "n1": "oil\n"
+        },
+        {
+            "n1": "syd meade\n"
+        },
+        {
+            "n1": "classical painting\n"
+        },
+        {
+            "n1": "glamor pose\n"
+        },
+        {
+            "n1": "fantasy magic\n"
+        },
+        {
+            "n1": "fine texture\n"
+        },
+        {
+            "n1": "pre - raphaelite\n",
+            "n2": "pre-raphaelite\n"
+        },
+        {
+            "n1": "corrected\n"
+        },
+        {
+            "n1": "award winning masterpiece\n"
+        },
+        {
+            "n1": "ink drawing\n"
+        },
+        {
+            "n1": "smooth and clean vector curves\n"
+        },
+        {
+            "n1": "purple\n"
+        },
+        {
+            "n1": "arnold render\n"
+        },
+        {
+            "n1": "saturated colors\n"
+        },
+        {
+            "n1": "symmetry accurate features\n"
+        },
+        {
+            "n1": "menacing\n"
+        },
+        {
+            "n1": "game of thrones\n"
+        },
+        {
+            "n1": "hair down\n"
+        },
+        {
+            "n1": "metal\n"
+        },
+        {
+            "n1": "sachin teng\n"
+        },
+        {
+            "n1": "sky\n"
+        },
+        {
+            "n1": "elaborate\n"
+        },
+        {
+            "n1": "lights\n"
+        },
+        {
+            "n1": "matte finish\n"
+        },
+        {
+            "n1": "etching\n"
+        },
+        {
+            "n1": "insane detail\n"
+        },
+        {
+            "n1": "rich deep colors\n"
+        },
+        {
+            "n1": "deviantart artstation\n"
+        },
+        {
+            "n1": "fish eye\n"
+        },
+        {
+            "n1": "the fifth element artifacts\n"
+        },
+        {
+            "n1": "chrome\n"
+        },
+        {
+            "n1": "glowing lights!! intricate\n"
+        },
+        {
+            "n1": "league of legends\n"
+        },
+        {
+            "n1": "blender and photoshop\n"
+        },
+        {
+            "n1": "full length\n"
+        },
+        {
+            "n1": "arthouse\n"
+        },
+        {
+            "n1": "fantastically beautiful\n"
+        },
+        {
+            "n1": "fisheye lens\n"
+        },
+        {
+            "n1": "murata range\n"
+        },
+        {
+            "n1": "spectacular quality\n"
+        },
+        {
+            "n1": "ultra detailed fantasy\n"
+        },
+        {
+            "n1": "decadent\n"
+        },
+        {
+            "n1": "detailed and intricate\n"
+        },
+        {
+            "n1": "trending on furaffinity\n"
+        },
+        {
+            "n1": "digital portrait\n"
+        },
+        {
+            "n1": "apocalypse\n"
+        },
+        {
+            "n1": "beautiful cinematic light\n"
+        },
+        {
+            "n1": "bravely default inspired\n"
+        },
+        {
+            "n1": "dystopian art\n"
+        },
+        {
+            "n1": "cinematic concept art\n"
+        },
+        {
+            "n1": "action\n"
+        },
+        {
+            "n1": "ocean\n"
+        },
+        {
+            "n1": "close up shot\n"
+        },
+        {
+            "n1": "surrealistic\n"
+        },
+        {
+            "n1": "dark fantasy art\n"
+        },
+        {
+            "n1": "unreal 5 render\n"
+        },
+        {
+            "n1": "high detail 8 k\n",
+            "n2": "high detail 8k\n"
+        },
+        {
+            "n1": "rgb\n"
+        },
+        {
+            "n1": "long black hair\n"
+        },
+        {
+            "n1": "smooth face\n"
+        },
+        {
+            "n1": "super highly detailed\n"
+        },
+        {
+            "n1": "outrun\n"
+        },
+        {
+            "n1": "no shadow\n"
+        },
+        {
+            "n1": "cinema\n"
+        },
+        {
+            "n1": "dan mumford. octane render\n"
+        },
+        {
+            "n1": "midnight\n"
+        },
+        {
+            "n1": "magazine\n"
+        },
+        {
+            "n1": "movie scene\n"
+        },
+        {
+            "n1": "unreal render\n"
+        },
+        {
+            "n1": "otherworldly\n"
+        },
+        {
+            "n1": "heavenly\n"
+        },
+        {
+            "n1": "sci fi fantasy\n"
+        },
+        {
+            "n1": "brown hair\n"
+        },
+        {
+            "n1": "noir\n"
+        },
+        {
+            "n1": "retrowave\n"
+        },
+        {
+            "n1": "cinematic landscape\n"
+        },
+        {
+            "n1": "cinematic still\n"
+        },
+        {
+            "n1": "sculpture\n"
+        },
+        {
+            "n1": "100mm\n",
+            "n2": "1 0 0 mm\n"
+        },
+        {
+            "n1": "war\n"
+        },
+        {
+            "n1": "flat colors\n"
+        },
+        {
+            "n1": "cute and adorable\n"
+        },
+        {
+            "n1": "3 d octane render\n"
+        },
+        {
+            "n1": "fan art\n"
+        },
+        {
+            "n1": "higly detailed\n"
+        },
+        {
+            "n1": "smile\n"
+        },
+        {
+            "n1": "moss\n"
+        },
+        {
+            "n1": "archdaily\n"
+        },
+        {
+            "n1": "luminescent\n"
+        },
+        {
+            "n1": "imax 70 mm footage\n"
+        },
+        {
+            "n1": "anime visual\n"
+        },
+        {
+            "n1": "dirty\n"
+        },
+        {
+            "n1": "contemporary fashion shoot\n"
+        },
+        {
+            "n1": "p\n"
+        },
+        {
+            "n1": "grey background\n"
+        },
+        {
+            "n1": "storybook illustration\n"
+        },
+        {
+            "n1": "color film photography\n"
+        },
+        {
+            "n1": "intricate oil details\n"
+        },
+        {
+            "n1": "pathfinder\n"
+        },
+        {
+            "n1": "darkness\n"
+        },
+        {
+            "n1": "artem demura\n"
+        },
+        {
+            "n1": "strong\n"
+        },
+        {
+            "n1": "graphic design\n"
+        },
+        {
+            "n1": "livia prima\n"
+        },
+        {
+            "n1": "high res\n"
+        },
+        {
+            "n1": "8 5 mm\n",
+            "n2": "85mm\n"
+        },
+        {
+            "n1": "silver\n"
+        },
+        {
+            "n1": "da vinci\n"
+        },
+        {
+            "n1": "dark vibes\n"
+        },
+        {
+            "n1": "an epic fantasy\n"
+        },
+        {
+            "n1": "cable wires\n"
+        },
+        {
+            "n1": "concept\n"
+        },
+        {
+            "n1": "ambient\n"
+        },
+        {
+            "n1": "divine\n"
+        },
+        {
+            "n1": "unsettling\n"
+        },
+        {
+            "n1": "rtx on\n"
+        },
+        {
+            "n1": "autumn\n"
+        },
+        {
+            "n1": "telephoto\n"
+        },
+        {
+            "n1": "cinematic matte painting\n"
+        },
+        {
+            "n1": "stunning visuals\n"
+        },
+        {
+            "n1": "spotlight\n"
+        },
+        {
+            "n1": "hyper detail\n"
+        },
+        {
+            "n1": "highly intricate\n"
+        },
+        {
+            "n1": "studio portrait\n"
+        },
+        {
+            "n1": "dark mood\n"
+        },
+        {
+            "n1": "sakimi chan\n"
+        },
+        {
+            "n1": "model\n"
+        },
+        {
+            "n1": "punk art\n"
+        },
+        {
+            "n1": "dress\n"
+        },
+        {
+            "n1": "beautifully backlit\n"
+        },
+        {
+            "n1": "dark and moody\n"
+        },
+        {
+            "n1": "claymation\n"
+        },
+        {
+            "n1": "yusuke murata\n"
+        },
+        {
+            "n1": "vray render\n"
+        },
+        {
+            "n1": "golden ratio illustration\n"
+        },
+        {
+            "n1": "cityscape\n"
+        },
+        {
+            "n1": "yellow\n"
+        },
+        {
+            "n1": "earl moran\n"
+        },
+        {
+            "n1": "japanese\n"
+        },
+        {
+            "n1": "lake\n"
+        },
+        {
+            "n1": "colorful accents\n"
+        },
+        {
+            "n1": "m\n"
+        },
+        {
+            "n1": "dawn\n"
+        },
+        {
+            "n1": "set in 1860\n"
+        },
+        {
+            "n1": "ornamental\n"
+        },
+        {
+            "n1": "realistic character concept\n"
+        },
+        {
+            "n1": "sharp claws\n"
+        },
+        {
+            "n1": "light effect\n"
+        },
+        {
+            "n1": "dark night\n"
+        },
+        {
+            "n1": "full body pose\n"
+        },
+        {
+            "n1": "birds\n"
+        },
+        {
+            "n1": "beauty\n"
+        },
+        {
+            "n1": "graffiti paint\n"
+        },
+        {
+            "n1": "sepia\n"
+        },
+        {
+            "n1": "desolate\n"
+        },
+        {
+            "n1": "sense of depth\n"
+        },
+        {
+            "n1": "kinkade\n"
+        },
+        {
+            "n1": "art greg rutkowski\n"
+        },
+        {
+            "n1": "macro art\n"
+        },
+        {
+            "n1": "rich moody colours\n"
+        },
+        {
+            "n1": "liam brazier\n"
+        },
+        {
+            "n1": "wildlife photography\n"
+        },
+        {
+            "n1": "desert\n"
+        },
+        {
+            "n1": "30mm\n"
+        },
+        {
+            "n1": "reflective\n"
+        },
+        {
+            "n1": "simple form\n"
+        },
+        {
+            "n1": "neutral dull colors\n"
+        },
+        {
+            "n1": "path tracing\n"
+        },
+        {
+            "n1": "girl\n"
+        },
+        {
+            "n1": "head in focus\n"
+        },
+        {
+            "n1": "pale colors\n"
+        },
+        {
+            "n1": "melting\n"
+        },
+        {
+            "n1": "canon eos r 3\n"
+        },
+        {
+            "n1": "detailed oil painting\n"
+        },
+        {
+            "n1": "storm\n"
+        },
+        {
+            "n1": "cute and funny\n"
+        },
+        {
+            "n1": "commission on furaffinity\n"
+        },
+        {
+            "n1": "35mm film\n",
+            "n2": "3 5 mm film\n"
+        },
+        {
+            "n1": "high saturation\n"
+        },
+        {
+            "n1": "distant\n"
+        },
+        {
+            "n1": "open ceiling\n"
+        },
+        {
+            "n1": "panoramic view\n"
+        },
+        {
+            "n1": "fantastic\n"
+        },
+        {
+            "n1": "isometric view\n"
+        },
+        {
+            "n1": "2d\n",
+            "n2": "2 d\n"
+        },
+        {
+            "n1": "cinematic wallpaper\n"
+        },
+        {
+            "n1": "8 k render\n",
+            "n2": "8k render\n"
+        },
+        {
+            "n1": "piercing eyes\n"
+        },
+        {
+            "n1": "award\n"
+        },
+        {
+            "n1": "utopian\n"
+        },
+        {
+            "n1": "trippy\n"
+        },
+        {
+            "n1": "luminous\n"
+        },
+        {
+            "n1": "solo\n"
+        },
+        {
+            "n1": "marble\n"
+        },
+        {
+            "n1": "tech wear\n"
+        },
+        {
+            "n1": "1 9 6 0 s\n"
+        },
+        {
+            "n1": "paper texture\n"
+        },
+        {
+            "n1": "smooth face feature\n"
+        },
+        {
+            "n1": "color page\n"
+        },
+        {
+            "n1": "huge scene\n"
+        },
+        {
+            "n1": "insanely complex\n"
+        },
+        {
+            "n1": "defined facial features\n"
+        },
+        {
+            "n1": "technicolor\n"
+        },
+        {
+            "n1": "windy\n"
+        },
+        {
+            "n1": "dusty\n"
+        },
+        {
+            "n1": "graphic novel\n"
+        },
+        {
+            "n1": "ultra realistic faces\n"
+        },
+        {
+            "n1": "hourglass slim figure\n"
+        },
+        {
+            "n1": "adobe photoshop\n"
+        },
+        {
+            "n1": "cheerful\n"
+        },
+        {
+            "n1": "heroic\n"
+        },
+        {
+            "n1": "cool\n"
+        },
+        {
+            "n1": "environment concept\n"
+        },
+        {
+            "n1": "bioluminescence\n"
+        },
+        {
+            "n1": "hopper\n"
+        },
+        {
+            "n1": "fireflies\n"
+        },
+        {
+            "n1": "beach\n"
+        },
+        {
+            "n1": "gloomy atmosphere\n"
+        },
+        {
+            "n1": "detailed facial features\n"
+        },
+        {
+            "n1": "loftis\n"
+        },
+        {
+            "n1": "pokemon\n"
+        },
+        {
+            "n1": "action scene\n"
+        },
+        {
+            "n1": "faded\n"
+        },
+        {
+            "n1": "candles\n"
+        },
+        {
+            "n1": "goddess\n"
+        },
+        {
+            "n1": "contemporary art\n"
+        },
+        {
+            "n1": "colorized\n"
+        },
+        {
+            "n1": "photorealistic lighting\n"
+        },
+        {
+            "n1": "grunge\n"
+        },
+        {
+            "n1": "glitch\n"
+        },
+        {
+            "n1": "theatrical\n"
+        },
+        {
+            "n1": "dim lighting\n"
+        },
+        {
+            "n1": "hd shot\n"
+        },
+        {
+            "n1": "death\n"
+        },
+        {
+            "n1": "realistic eyes\n"
+        },
+        {
+            "n1": "chaos\n"
+        },
+        {
+            "n1": "animated\n"
+        },
+        {
+            "n1": "haze\n"
+        },
+        {
+            "n1": "dark art\n"
+        },
+        {
+            "n1": "dynamic lights\n"
+        },
+        {
+            "n1": "foreboding\n"
+        },
+        {
+            "n1": "video game\n"
+        },
+        {
+            "n1": "anime art style\n"
+        },
+        {
+            "n1": "tall\n"
+        },
+        {
+            "n1": "harvest fall vibrancy\n"
+        },
+        {
+            "n1": "fine foliage lace\n"
+        },
+        {
+            "n1": "plastic\n"
+        },
+        {
+            "n1": "dystopia\n"
+        },
+        {
+            "n1": "cgstudio\n"
+        },
+        {
+            "n1": "short\n"
+        },
+        {
+            "n1": "old photo\n"
+        },
+        {
+            "n1": "lightroom\n"
+        },
+        {
+            "n1": "tentacles\n"
+        },
+        {
+            "n1": "wings\n"
+        },
+        {
+            "n1": "imax quality\n"
+        },
+        {
+            "n1": "manga and anime 1 9 9 9\n"
+        },
+        {
+            "n1": "deep shadows\n"
+        },
+        {
+            "n1": "flowing hair\n"
+        },
+        {
+            "n1": "clear eyes\n"
+        },
+        {
+            "n1": "concept design art\n"
+        },
+        {
+            "n1": "white skin\n"
+        },
+        {
+            "n1": "sunglasses\n"
+        },
+        {
+            "n1": "ektachrome photograph\n"
+        },
+        {
+            "n1": "deep depth of field\n"
+        },
+        {
+            "n1": "leica\n"
+        },
+        {
+            "n1": "detailed art\n"
+        },
+        {
+            "n1": "8 k concept art\n"
+        },
+        {
+            "n1": "ray traced\n"
+        },
+        {
+            "n1": "screen print\n"
+        },
+        {
+            "n1": "eyes closed\n"
+        },
+        {
+            "n1": "elysium\n"
+        },
+        {
+            "n1": "dynamic camera angle\n"
+        },
+        {
+            "n1": "selfie\n"
+        },
+        {
+            "n1": "gaudy colors\n"
+        },
+        {
+            "n1": "spirals\n"
+        },
+        {
+            "n1": "round face\n"
+        },
+        {
+            "n1": "detail\n"
+        },
+        {
+            "n1": "glossy\n"
+        },
+        {
+            "n1": "hi - fructose\n"
+        },
+        {
+            "n1": "side profile\n"
+        },
+        {
+            "n1": "high detail 4k\n"
+        },
+        {
+            "n1": "single face\n"
+        },
+        {
+            "n1": "cables\n"
+        },
+        {
+            "n1": "cinematic angle\n"
+        },
+        {
+            "n1": "live action\n"
+        },
+        {
+            "n1": "epic proportions\n"
+        },
+        {
+            "n1": "panoramic\n"
+        },
+        {
+            "n1": "symmetric balance\n"
+        },
+        {
+            "n1": "eldritch\n"
+        },
+        {
+            "n1": "diamonds\n"
+        },
+        {
+            "n1": "small\n"
+        },
+        {
+            "n1": "standing\n"
+        },
+        {
+            "n1": "warm light\n"
+        },
+        {
+            "n1": "waist up\n"
+        },
+        {
+            "n1": "vaporwave colors\n"
+        },
+        {
+            "n1": "shiny skin\n"
+        },
+        {
+            "n1": "orange\n"
+        },
+        {
+            "n1": "widescreen\n"
+        },
+        {
+            "n1": "ghost in the shell\n"
+        },
+        {
+            "n1": "dramatic lightning\n"
+        },
+        {
+            "n1": "seductive smile\n"
+        },
+        {
+            "n1": "angelic\n"
+        },
+        {
+            "n1": "renaissance oil painting\n"
+        },
+        {
+            "n1": "glowing rich colors\n"
+        },
+        {
+            "n1": "for aaa game\n"
+        },
+        {
+            "n1": "digital artwork\n"
+        },
+        {
+            "n1": "deep 3 point perspective\n"
+        },
+        {
+            "n1": "cinestill 8 0 0 t 3 5 mm\n",
+            "n2": "cinestill 800t\n",
+            "n3": "cinestill 8 0 0 t\n"
+        },
+        {
+            "n1": "fun\n"
+        },
+        {
+            "n1": "warm\n"
+        },
+        {
+            "n1": "rich vivid colors\n"
+        },
+        {
+            "n1": "multicolored\n"
+        },
+        {
+            "n1": "composition\n"
+        },
+        {
+            "n1": "good value control\n"
+        },
+        {
+            "n1": "athletic\n"
+        },
+        {
+            "n1": "nvidia raytracing demo\n"
+        },
+        {
+            "n1": "post apocalyptic\n"
+        },
+        {
+            "n1": "full view\n"
+        },
+        {
+            "n1": "christian macnevin\n"
+        },
+        {
+            "n1": "inking\n"
+        },
+        {
+            "n1": "wow\n"
+        },
+        {
+            "n1": "analog\n"
+        },
+        {
+            "n1": "finely detailed features\n"
+        },
+        {
+            "n1": "modern art deco\n"
+        },
+        {
+            "n1": "very short depth of field\n"
+        },
+        {
+            "n1": "neon lighting\n"
+        },
+        {
+            "n1": "f / 3 2\n"
+        },
+        {
+            "n1": "interior\n"
+        },
+        {
+            "n1": "giantess art\n"
+        },
+        {
+            "n1": "hard surface\n"
+        },
+        {
+            "n1": "found footage\n"
+        },
+        {
+            "n1": "glorious\n"
+        },
+        {
+            "n1": "professional digital art\n"
+        },
+        {
+            "n1": "berries\n"
+        },
+        {
+            "n1": "night sky\n"
+        },
+        {
+            "n1": "neon colors\n"
+        },
+        {
+            "n1": "emma watson\n"
+        },
+        {
+            "n1": "single body\n"
+        },
+        {
+            "n1": "head and shoulders portrait\n"
+        },
+        {
+            "n1": "kyoani\n"
+        },
+        {
+            "n1": "f 8 aperture\n"
+        },
+        {
+            "n1": "jellyfish\n"
+        },
+        {
+            "n1": "fluorescent colors\n"
+        },
+        {
+            "n1": "full frame\n"
+        },
+        {
+            "n1": "cyberpunk city\n"
+        },
+        {
+            "n1": "frazetta\n"
+        },
+        {
+            "n1": "flames\n"
+        },
+        {
+            "n1": "city background\n"
+        },
+        {
+            "n1": "u\n"
+        },
+        {
+            "n1": "colorful flat surreal design\n"
+        },
+        {
+            "n1": "animation\n"
+        },
+        {
+            "n1": "lomography\n"
+        },
+        {
+            "n1": "dream\n"
+        },
+        {
+            "n1": "autochrome\n"
+        },
+        {
+            "n1": "frostbite 3 engine\n"
+        },
+        {
+            "n1": "3 d model\n"
+        },
+        {
+            "n1": "cinematic photography\n"
+        },
+        {
+            "n1": "technology\n"
+        },
+        {
+            "n1": "planets\n"
+        },
+        {
+            "n1": "japan\n"
+        },
+        {
+            "n1": "elegance\n"
+        },
+        {
+            "n1": "crown\n"
+        },
+        {
+            "n1": "wpa\n"
+        },
+        {
+            "n1": "illustrated\n"
+        },
+        {
+            "n1": "affinity photo\n"
+        },
+        {
+            "n1": "robots\n"
+        },
+        {
+            "n1": "perfectly shaded\n"
+        },
+        {
+            "n1": "sunset lighting\n"
+        },
+        {
+            "n1": "denoised\n"
+        },
+        {
+            "n1": "leesha hannigan\n"
+        },
+        {
+            "n1": "lush\n"
+        },
+        {
+            "n1": "animal photography\n"
+        },
+        {
+            "n1": "art noveau\n"
+        },
+        {
+            "n1": "perspective\n"
+        },
+        {
+            "n1": "well lit\n"
+        },
+        {
+            "n1": "tranquil\n"
+        },
+        {
+            "n1": "rembrandt lighting\n"
+        },
+        {
+            "n1": "public works mural\n"
+        },
+        {
+            "n1": "tiny\n"
+        },
+        {
+            "n1": "ultra realistic digital art\n"
+        },
+        {
+            "n1": "bright morning\n"
+        },
+        {
+            "n1": "rene magritte. detailed\n"
+        },
+        {
+            "n1": "in gta v\n"
+        },
+        {
+            "n1": "toy\n"
+        },
+        {
+            "n1": "ex machina\n"
+        },
+        {
+            "n1": "pastel color palette\n"
+        },
+        {
+            "n1": "extreme illustration\n"
+        },
+        {
+            "n1": "professional food photography\n"
+        },
+        {
+            "n1": "matte drawing\n"
+        },
+        {
+            "n1": "kodak\n"
+        },
+        {
+            "n1": "cinematic eastman 5 3 8 4 film\n",
+            "n2": "cinematic eastman 5384 film\n"
+        },
+        {
+            "n1": "symetrical\n"
+        },
+        {
+            "n1": "neo - expressionism\n"
+        },
+        {
+            "n1": "mesh wire\n"
+        },
+        {
+            "n1": "divinity\n"
+        },
+        {
+            "n1": "offset printing technique\n"
+        },
+        {
+            "n1": "book cover\n"
+        },
+        {
+            "n1": "sparks\n"
+        },
+        {
+            "n1": "2 d game art\n"
+        },
+        {
+            "n1": "extremely high quality\n"
+        },
+        {
+            "n1": "rembrandt style\n"
+        },
+        {
+            "n1": "surreality\n"
+        },
+        {
+            "n1": "zoomed out\n"
+        },
+        {
+            "n1": "8 0 mm\n"
+        },
+        {
+            "n1": "future\n"
+        },
+        {
+            "n1": "llustration\n"
+        },
+        {
+            "n1": "4 k hd wallpaper\n"
+        },
+        {
+            "n1": "star citizen halo\n"
+        },
+        {
+            "n1": "photoshoot\n"
+        },
+        {
+            "n1": "conceptart\n"
+        },
+        {
+            "n1": "amazing composition\n"
+        },
+        {
+            "n1": "4 k realistic\n"
+        },
+        {
+            "n1": "art nouveau fashion embroidered\n"
+        },
+        {
+            "n1": "nature photography\n"
+        },
+        {
+            "n1": "split lighting\n"
+        },
+        {
+            "n1": "postprocessing\n"
+        },
+        {
+            "n1": "posing\n"
+        },
+        {
+            "n1": "somber\n"
+        },
+        {
+            "n1": "criterion collection\n"
+        },
+        {
+            "n1": "c4d\n",
+            "n2": "c 4 d\n"
+        },
+        {
+            "n1": "no crop\n"
+        },
+        {
+            "n1": "pale\n"
+        },
+        {
+            "n1": "roses\n"
+        },
+        {
+            "n1": "detailed render\n"
+        },
+        {
+            "n1": "real life skin\n"
+        },
+        {
+            "n1": "league of legends splash art\n"
+        },
+        {
+            "n1": "warframe armor\n"
+        },
+        {
+            "n1": "half robot\n"
+        },
+        {
+            "n1": "beautiful scene\n"
+        },
+        {
+            "n1": "overgrown\n"
+        },
+        {
+            "n1": "perfect art\n"
+        },
+        {
+            "n1": "from arknights\n"
+        },
+        {
+            "n1": "monster\n"
+        },
+        {
+            "n1": "perfect symmetrical face\n"
+        },
+        {
+            "n1": "glowing light and shadow\n"
+        },
+        {
+            "n1": "elaborate geometric ornament\n"
+        },
+        {
+            "n1": "lasers\n"
+        },
+        {
+            "n1": "dynamic scene\n"
+        },
+        {
+            "n1": "mood lighting\n"
+        },
+        {
+            "n1": "light brazen\n"
+        },
+        {
+            "n1": "movie\n"
+        },
+        {
+            "n1": "anthropomorphic\n"
+        },
+        {
+            "n1": "cottagecore\n"
+        },
+        {
+            "n1": "psychedelic overtones\n"
+        },
+        {
+            "n1": "dramatic backlighting\n"
+        },
+        {
+            "n1": "insanely quality\n"
+        },
+        {
+            "n1": "looking at the camera\n"
+        },
+        {
+            "n1": "pencil drawing\n",
+            "n2": "pencil sketch\n"
+        },
+        {
+            "n1": "goth\n"
+        },
+        {
+            "n1": "dslr photo\n"
+        },
+        {
+            "n1": "hell\n"
+        },
+        {
+            "n1": "red light\n"
+        },
+        {
+            "n1": "microchip\n"
+        },
+        {
+            "n1": "very realistic painting effect\n"
+        },
+        {
+            "n1": "high octane\n"
+        },
+        {
+            "n1": "confident\n"
+        },
+        {
+            "n1": "sigma 85mm f/1.4\n"
+        },
+        {
+            "n1": "half body\n"
+        },
+        {
+            "n1": "dndbeyond\n"
+        },
+        {
+            "n1": "ai enhanced\n"
+        },
+        {
+            "n1": "high coherence\n"
+        },
+        {
+            "n1": "soft render\n"
+        },
+        {
+            "n1": "high production value\n"
+        },
+        {
+            "n1": "gustav moreau\n"
+        },
+        {
+            "n1": "warrior\n"
+        },
+        {
+            "n1": "realistic anatomy\n"
+        },
+        {
+            "n1": "beautiful woman\n"
+        },
+        {
+            "n1": "gradation\n"
+        },
+        {
+            "n1": "cyberpunk 2077\n"
+        },
+        {
+            "n1": "colored pencil\n"
+        },
+        {
+            "n1": "forest background\n"
+        },
+        {
+            "n1": "stock photo\n"
+        },
+        {
+            "n1": "blue hair\n"
+        },
+        {
+            "n1": "laughing\n"
+        },
+        {
+            "n1": "sony a7r\n"
+        },
+        {
+            "n1": "product introduction photos\n"
+        },
+        {
+            "n1": "cory loftis\n"
+        },
+        {
+            "n1": "eyes\n"
+        },
+        {
+            "n1": "atey ghailan and mike mignola\n"
+        },
+        {
+            "n1": "ruan jia and fenghua zhong\n"
+        },
+        {
+            "n1": "mcbess\n"
+        },
+        {
+            "n1": "last exile\n"
+        },
+        {
+            "n1": "fantasy digital art\n"
+        },
+        {
+            "n1": "wayne haag\n"
+        },
+        {
+            "n1": "vogue magazine\n"
+        },
+        {
+            "n1": "dynamic light\n"
+        },
+        {
+            "n1": "expressive pose\n"
+        },
+        {
+            "n1": "seventies\n"
+        },
+        {
+            "n1": "delicate embellishments\n"
+        },
+        {
+            "n1": "noisy film grain effect\n"
+        },
+        {
+            "n1": "blurred background\n",
+            "n2": "blurry background\n"
+        },
+        {
+            "n1": "homoerotic\n"
+        },
+        {
+            "n1": "anthro art\n"
+        },
+        {
+            "n1": "low saturation\n"
+        },
+        {
+            "n1": "editorial illustration\n"
+        },
+        {
+            "n1": "liminal space in outer space\n"
+        },
+        {
+            "n1": "vray caustics\n"
+        },
+        {
+            "n1": "wayne barlow\n"
+        },
+        {
+            "n1": "tragic\n"
+        },
+        {
+            "n1": "darksynth\n"
+        },
+        {
+            "n1": "dark light night\n"
+        },
+        {
+            "n1": "lava\n"
+        },
+        {
+            "n1": "bedroom\n"
+        },
+        {
+            "n1": "bold\n"
+        },
+        {
+            "n1": "dramatic scene\n"
+        },
+        {
+            "n1": "wood\n"
+        },
+        {
+            "n1": "emotionally evocative\n"
+        },
+        {
+            "n1": "greatest art ever made\n"
+        },
+        {
+            "n1": "dreamy and ethereal\n"
+        },
+        {
+            "n1": "iconic\n"
+        },
+        {
+            "n1": "cold\n"
+        },
+        {
+            "n1": "chiaroscuro lighting\n"
+        },
+        {
+            "n1": "keyshot\n"
+        },
+        {
+            "n1": "hazel eyes\n"
+        },
+        {
+            "n1": "refraction\n"
+        },
+        {
+            "n1": "rich deep colours masterpiece\n"
+        },
+        {
+            "n1": "chalk\n"
+        },
+        {
+            "n1": "realistic reflections\n"
+        },
+        {
+            "n1": "detailed matte painting\n"
+        },
+        {
+            "n1": "stunning volumetric lighting\n"
+        },
+        {
+            "n1": "dark surrealism\n"
+        },
+        {
+            "n1": "8 k realistic\n"
+        },
+        {
+            "n1": "simple background\n"
+        },
+        {
+            "n1": "collage\n"
+        },
+        {
+            "n1": "ultra sharp\n"
+        },
+        {
+            "n1": "tankoban\n"
+        },
+        {
+            "n1": "trading card front\n"
+        },
+        {
+            "n1": "incredible\n"
+        },
+        {
+            "n1": "shining\n"
+        },
+        {
+            "n1": "light dust\n"
+        },
+        {
+            "n1": "long white hair\n"
+        },
+        {
+            "n1": "telephoto lens\n"
+        },
+        {
+            "n1": "canvas\n"
+        },
+        {
+            "n1": "mythical\n"
+        },
+        {
+            "n1": ": :\n"
+        },
+        {
+            "n1": "sharpness\n"
+        },
+        {
+            "n1": "old\n"
+        },
+        {
+            "n1": "medium format\n"
+        },
+        {
+            "n1": "bald\n"
+        },
+        {
+            "n1": "cloudy\n"
+        },
+        {
+            "n1": "no people\n"
+        },
+        {
+            "n1": "hyperrealist\n"
+        },
+        {
+            "n1": "portrait photo\n"
+        },
+        {
+            "n1": "wide view\n"
+        },
+        {
+            "n1": "studio lightning\n"
+        },
+        {
+            "n1": "dark hair\n"
+        },
+        {
+            "n1": "press\n"
+        },
+        {
+            "n1": "real photo\n"
+        },
+        {
+            "n1": "abandoned\n"
+        },
+        {
+            "n1": "ultra wide lens\n"
+        },
+        {
+            "n1": "twilight\n"
+        },
+        {
+            "n1": "beautiful scenery\n"
+        },
+        {
+            "n1": "milky way\n"
+        },
+        {
+            "n1": "tsutomu nihei\n"
+        },
+        {
+            "n1": "fractalism\n"
+        },
+        {
+            "n1": "editors choice\n"
+        },
+        {
+            "n1": "cartoon style\n"
+        },
+        {
+            "n1": "character is in all its glory\n"
+        },
+        {
+            "n1": "golden ratio composition\n"
+        },
+        {
+            "n1": "daily deviation\n"
+        },
+        {
+            "n1": "dripping paint\n"
+        },
+        {
+            "n1": "electrical details\n"
+        },
+        {
+            "n1": "ultrafine detail\n"
+        },
+        {
+            "n1": "many details\n"
+        },
+        {
+            "n1": "symmetrical artwork\n"
+        },
+        {
+            "n1": "professionally retouched\n"
+        },
+        {
+            "n1": "audubon\n"
+        },
+        {
+            "n1": "vaporwave aesthetic\n"
+        },
+        {
+            "n1": "bioluminescent\n"
+        },
+        {
+            "n1": "awe inspiring\n"
+        },
+        {
+            "n1": "oil paint\n"
+        },
+        {
+            "n1": "grain\n"
+        },
+        {
+            "n1": "uncropped\n"
+        },
+        {
+            "n1": "disturbing\n"
+        },
+        {
+            "n1": "steam\n"
+        },
+        {
+            "n1": "butterflies\n"
+        },
+        {
+            "n1": "digital concept art\n"
+        },
+        {
+            "n1": "the middle ages\n"
+        },
+        {
+            "n1": "visible brushstrokes\n"
+        },
+        {
+            "n1": "solid background\n"
+        },
+        {
+            "n1": "fantasy epic digital art\n"
+        },
+        {
+            "n1": "octane render 8 k\n"
+        },
+        {
+            "n1": "high quality photo\n"
+        },
+        {
+            "n1": "medieval castle\n"
+        },
+        {
+            "n1": "soft studio lighting\n"
+        },
+        {
+            "n1": "poetic\n"
+        },
+        {
+            "n1": "big medium small\n"
+        },
+        {
+            "n1": "no dof\n"
+        },
+        {
+            "n1": "mystic\n"
+        },
+        {
+            "n1": "socialist\n"
+        },
+        {
+            "n1": "french nouveau\n"
+        },
+        {
+            "n1": "fur\n"
+        },
+        {
+            "n1": "acrylic\n"
+        },
+        {
+            "n1": "rimlight\n"
+        },
+        {
+            "n1": "high resolution print\n"
+        },
+        {
+            "n1": "pablo amaringo\n"
+        },
+        {
+            "n1": "mystery\n"
+        },
+        {
+            "n1": "retro futurism\n"
+        },
+        {
+            "n1": "airbrush art\n"
+        },
+        {
+            "n1": "detailed background\n"
+        },
+        {
+            "n1": "from behind\n"
+        },
+        {
+            "n1": "three point perspective\n"
+        },
+        {
+            "n1": "william adolphe bouguereau\n"
+        },
+        {
+            "n1": "solid color background\n"
+        },
+        {
+            "n1": "body and headshot\n"
+        },
+        {
+            "n1": "sunshine\n"
+        },
+        {
+            "n1": "associated press photo\n"
+        },
+        {
+            "n1": "epic size\n"
+        },
+        {
+            "n1": "still\n"
+        },
+        {
+            "n1": "joyful\n"
+        },
+        {
+            "n1": "cute face\n"
+        },
+        {
+            "n1": "lines\n"
+        },
+        {
+            "n1": "kodak film\n"
+        },
+        {
+            "n1": "blonde\n"
+        },
+        {
+            "n1": "vibrant high contrast\n"
+        },
+        {
+            "n1": "snowing\n"
+        },
+        {
+            "n1": "ray traced lighting\n"
+        },
+        {
+            "n1": "high angle\n"
+        },
+        {
+            "n1": "thunder clouds in the sky\n"
+        },
+        {
+            "n1": "screaming\n"
+        },
+        {
+            "n1": "unreal engine 8 k\n"
+        },
+        {
+            "n1": "brutalist architecture\n"
+        },
+        {
+            "n1": "crying\n"
+        },
+        {
+            "n1": "landscape painting\n"
+        },
+        {
+            "n1": "fluid\n"
+        },
+        {
+            "n1": "astonishing\n"
+        },
+        {
+            "n1": "environment\n"
+        },
+        {
+            "n1": "product shot\n"
+        },
+        {
+            "n1": "black leather boots\n"
+        },
+        {
+            "n1": "hopeful\n"
+        },
+        {
+            "n1": "y\n"
+        },
+        {
+            "n1": "ancient\n"
+        },
+        {
+            "n1": "dystopian scifi gear\n"
+        },
+        {
+            "n1": "royo\n"
+        },
+        {
+            "n1": "horror art\n"
+        },
+        {
+            "n1": "blade runner 2049\n",
+            "n2": "blade runner 2 0 4 9\n"
+        },
+        {
+            "n1": "in style of classicism\n"
+        },
+        {
+            "n1": "simple illustration\n"
+        },
+        {
+            "n1": "epic sky\n"
+        },
+        {
+            "n1": "warframe fanart\n"
+        },
+        {
+            "n1": "gradient\n"
+        },
+        {
+            "n1": "dark skin\n"
+        },
+        {
+            "n1": "no frames\n"
+        },
+        {
+            "n1": "joshua middleton\n"
+        },
+        {
+            "n1": "domestic\n"
+        },
+        {
+            "n1": "classic oil painting\n"
+        },
+        {
+            "n1": "hyperrealism oil painting\n"
+        },
+        {
+            "n1": "creative design\n"
+        },
+        {
+            "n1": "katsura masakazu\n"
+        },
+        {
+            "n1": "warhammer 4 0 k\n"
+        },
+        {
+            "n1": "parallax\n"
+        },
+        {
+            "n1": "very coherent artwork\n"
+        },
+        {
+            "n1": "hyper - real\n"
+        },
+        {
+            "n1": "ray trace\n"
+        },
+        {
+            "n1": "rustic\n"
+        },
+        {
+            "n1": "beautiful light\n"
+        },
+        {
+            "n1": "feathers\n"
+        },
+        {
+            "n1": "techwear\n"
+        },
+        {
+            "n1": "cg animation\n"
+        },
+        {
+            "n1": "1 / 4 headshot\n"
+        },
+        {
+            "n1": "top view\n"
+        },
+        {
+            "n1": "metallic\n"
+        },
+        {
+            "n1": "kodakchrome\n"
+        },
+        {
+            "n1": "ssci-fi\n"
+        },
+        {
+            "n1": "close shot\n"
+        },
+        {
+            "n1": "greg rutowski\n"
+        },
+        {
+            "n1": "battered\n"
+        },
+        {
+            "n1": "extreme closeup\n"
+        },
+        {
+            "n1": "aerial photography\n"
+        },
+        {
+            "n1": "human anatomy\n"
+        },
+        {
+            "n1": "soldier clothing\n"
+        },
+        {
+            "n1": "illuminated\n"
+        },
+        {
+            "n1": "close up portrait\n"
+        },
+        {
+            "n1": "color bleed\n"
+        },
+        {
+            "n1": "rocks\n"
+        },
+        {
+            "n1": "hacking effects\n"
+        },
+        {
+            "n1": "savrasov levitan polenov\n"
+        },
+        {
+            "n1": "high quality digital art\n"
+        },
+        {
+            "n1": "realistic octane render\n"
+        },
+        {
+            "n1": "rust\n"
+        },
+        {
+            "n1": "with a pointed chin\n"
+        },
+        {
+            "n1": "devianart\n"
+        },
+        {
+            "n1": "demonic\n"
+        },
+        {
+            "n1": "photodirector 365\n"
+        },
+        {
+            "n1": "ossdraws\n"
+        },
+        {
+            "n1": "horrifying\n"
+        },
+        {
+            "n1": "cgsociety 8k\n"
+        },
+        {
+            "n1": "stoic\n"
+        },
+        {
+            "n1": "who is a male android\n"
+        },
+        {
+            "n1": "alexandros pyromallis\n"
+        },
+        {
+            "n1": "bubbles\n"
+        },
+        {
+            "n1": "manga style\n"
+        },
+        {
+            "n1": "kodak portra\n"
+        },
+        {
+            "n1": "realistic fantasy\n"
+        },
+        {
+            "n1": "rendering\n"
+        },
+        {
+            "n1": "choker\n"
+        },
+        {
+            "n1": "loish |\n"
+        },
+        {
+            "n1": "highly ornate intricate details\n"
+        },
+        {
+            "n1": "raytrace\n"
+        },
+        {
+            "n1": "svg\n"
+        },
+        {
+            "n1": "curvy\n"
+        },
+        {
+            "n1": "vaporware\n"
+        },
+        {
+            "n1": "hdr render in unreal engine 5\n"
+        },
+        {
+            "n1": "kenneth blom\n"
+        },
+        {
+            "n1": "high end digital art\n"
+        },
+        {
+            "n1": "holographic\n"
+        },
+        {
+            "n1": "view from above\n"
+        },
+        {
+            "n1": "top - rated\n"
+        },
+        {
+            "n1": "ultra high quality\n"
+        },
+        {
+            "n1": "expired film\n"
+        },
+        {
+            "n1": "digital matte painting\n"
+        },
+        {
+            "n1": "exaggerated detailed\n"
+        },
+        {
+            "n1": "gorgeous view\n"
+        },
+        {
+            "n1": "naudline pierre\n"
+        },
+        {
+            "n1": "bladerunner\n"
+        },
+        {
+            "n1": "ultrawide angle\n"
+        },
+        {
+            "n1": "dimly lit\n"
+        },
+        {
+            "n1": "starry sky\n"
+        },
+        {
+            "n1": "intimidating\n"
+        },
+        {
+            "n1": "fantasy painting\n"
+        },
+        {
+            "n1": "photorealistic facial features\n"
+        },
+        {
+            "n1": "depth layering\n"
+        },
+        {
+            "n1": "moody colors\n"
+        },
+        {
+            "n1": "hauntingly surreal\n"
+        },
+        {
+            "n1": "design\n"
+        },
+        {
+            "n1": "fursona\n"
+        },
+        {
+            "n1": "posing like a statue\n"
+        },
+        {
+            "n1": "mental alchemy\n"
+        },
+        {
+            "n1": "f\n"
+        },
+        {
+            "n1": "weird portrait angle\n"
+        },
+        {
+            "n1": "epic light\n"
+        },
+        {
+            "n1": "anamorphic lenses\n"
+        },
+        {
+            "n1": "intricate detailed illustration\n"
+        },
+        {
+            "n1": "ssci - fi and fantasy\n"
+        },
+        {
+            "n1": "concept art | beeple\n"
+        },
+        {
+            "n1": "3d sculpture\n"
+        },
+        {
+            "n1": "hasselblad\n"
+        },
+        {
+            "n1": "particles are flying\n"
+        },
+        {
+            "n1": "highly coherent\n"
+        },
+        {
+            "n1": "ultra definition\n"
+        },
+        {
+            "n1": "hills\n"
+        },
+        {
+            "n1": "neon signs\n"
+        },
+        {
+            "n1": "teeth\n"
+        },
+        {
+            "n1": "high definition digital art\n"
+        },
+        {
+            "n1": "expressive oil painting\n"
+        },
+        {
+            "n1": "circuitry\n"
+        },
+        {
+            "n1": "fiction\n"
+        },
+        {
+            "n1": "hr giger. 8 k\n"
+        },
+        {
+            "n1": "4 k quality\n"
+        },
+        {
+            "n1": "stippled light\n"
+        },
+        {
+            "n1": "street view\n"
+        },
+        {
+            "n1": "high textured\n"
+        },
+        {
+            "n1": "#1 digital painting of all time\n"
+        },
+        {
+            "n1": "masterful intricate artwork\n"
+        },
+        {
+            "n1": "heavy grainy picture\n"
+        },
+        {
+            "n1": "uplight\n"
+        },
+        {
+            "n1": "bright pastel colors\n"
+        },
+        {
+            "n1": "mid shot\n"
+        },
+        {
+            "n1": "well composed\n"
+        },
+        {
+            "n1": "sublime\n"
+        },
+        {
+            "n1": "brooding\n"
+        },
+        {
+            "n1": "face portrait\n"
+        },
+        {
+            "n1": "sfw version\n"
+        },
+        {
+            "n1": "foggy atmosphere\n"
+        },
+        {
+            "n1": "film photography\n"
+        },
+        {
+            "n1": "stanley kubrick\n"
+        },
+        {
+            "n1": "angel\n"
+        },
+        {
+            "n1": "full length shot\n"
+        },
+        {
+            "n1": "slight smile\n"
+        },
+        {
+            "n1": "cover art\n"
+        },
+        {
+            "n1": "sword\n"
+        },
+        {
+            "n1": "fancy clouds\n"
+        },
+        {
+            "n1": "sky blue eyes\n"
+        },
+        {
+            "n1": "4 0 mp\n"
+        },
+        {
+            "n1": "friendly\n"
+        },
+        {
+            "n1": "biomorphic\n"
+        },
+        {
+            "n1": "8k octane render\n"
+        },
+        {
+            "n1": "terror\n"
+        },
+        {
+            "n1": "nekro\n"
+        },
+        {
+            "n1": "lively\n"
+        },
+        {
+            "n1": "best\n"
+        },
+        {
+            "n1": "inspiring\n"
+        },
+        {
+            "n1": "instagram photo\n"
+        },
+        {
+            "n1": "head shot\n"
+        },
+        {
+            "n1": "ominous lighting\n"
+        },
+        {
+            "n1": "mattepainting\n"
+        },
+        {
+            "n1": "comixwave films\n"
+        },
+        {
+            "n1": "powerful imagery\n"
+        },
+        {
+            "n1": "professional art\n"
+        },
+        {
+            "n1": "studio photograph\n"
+        },
+        {
+            "n1": "norman rockwell and james jean\n"
+        },
+        {
+            "n1": "beard\n"
+        },
+        {
+            "n1": "heavy rain\n"
+        },
+        {
+            "n1": "large eyes\n"
+        },
+        {
+            "n1": "hans thoma\n"
+        },
+        {
+            "n1": "helmet\n"
+        },
+        {
+            "n1": "cg\n"
+        },
+        {
+            "n1": "perfect body\n"
+        },
+        {
+            "n1": "bloody\n"
+        },
+        {
+            "n1": "starship troopers\n"
+        },
+        {
+            "n1": "sweat drops\n"
+        },
+        {
+            "n1": "color photograph\n"
+        },
+        {
+            "n1": "melancholy\n"
+        },
+        {
+            "n1": "industrial\n"
+        },
+        {
+            "n1": "mouth\n"
+        },
+        {
+            "n1": "natural\n"
+        },
+        {
+            "n1": "rainbow\n"
+        },
+        {
+            "n1": "skulls\n"
+        },
+        {
+            "n1": "sharp teeth\n"
+        },
+        {
+            "n1": "manga art\n"
+        },
+        {
+            "n1": "jean deville\n"
+        },
+        {
+            "n1": "halluzinogenic\n"
+        },
+        {
+            "n1": "precise linework\n"
+        },
+        {
+            "n1": "buildings\n"
+        },
+        {
+            "n1": "waterfalls\n"
+        },
+        {
+            "n1": "flat shading\n"
+        },
+        {
+            "n1": "ruins\n"
+        },
+        {
+            "n1": "ignacio fern\u00e1ndez r\u00edos\n"
+        },
+        {
+            "n1": "beautiful detailed eyes\n"
+        },
+        {
+            "n1": "concrete\n"
+        },
+        {
+            "n1": "sadness\n"
+        },
+        {
+            "n1": "high tech industrial\n"
+        },
+        {
+            "n1": "amber eyes\n"
+        },
+        {
+            "n1": "wolfgang lettl highly detailed\n"
+        },
+        {
+            "n1": "silhouette\n"
+        },
+        {
+            "n1": "dynamic lightning\n"
+        },
+        {
+            "n1": "high resolution film still\n"
+        },
+        {
+            "n1": "correct face\n"
+        },
+        {
+            "n1": "realistic textures\n"
+        },
+        {
+            "n1": "fine\n"
+        },
+        {
+            "n1": "building\n"
+        },
+        {
+            "n1": "interstellar\n"
+        },
+        {
+            "n1": "young woman\n"
+        },
+        {
+            "n1": "roger deakin\u2019s cinematography\n"
+        },
+        {
+            "n1": "remaster\n"
+        },
+        {
+            "n1": "pink hair\n"
+        },
+        {
+            "n1": "modern art\n"
+        },
+        {
+            "n1": "clean ink detailed line drawing\n"
+        },
+        {
+            "n1": "cinematic scene\n"
+        },
+        {
+            "n1": "cinematic lights\n"
+        },
+        {
+            "n1": "wetplate\n"
+        },
+        {
+            "n1": "no background\n"
+        },
+        {
+            "n1": "complementary colors\n"
+        },
+        {
+            "n1": "robotic\n"
+        },
+        {
+            "n1": "alex malveda\n"
+        },
+        {
+            "n1": "long red hair\n"
+        },
+        {
+            "n1": "dramatic atmosphere\n"
+        },
+        {
+            "n1": "rugged\n"
+        },
+        {
+            "n1": "glossy skin\n"
+        },
+        {
+            "n1": "lithe\n"
+        },
+        {
+            "n1": "gears\n"
+        },
+        {
+            "n1": "akira\n"
+        },
+        {
+            "n1": "multiple exposure\n"
+        },
+        {
+            "n1": "highly saturated colors\n"
+        },
+        {
+            "n1": "leaves\n"
+        },
+        {
+            "n1": "floating\n"
+        },
+        {
+            "n1": "waves\n"
+        },
+        {
+            "n1": "good photography\n"
+        },
+        {
+            "n1": "8 k quality\n"
+        },
+        {
+            "n1": "star citizen\n"
+        },
+        {
+            "n1": "epic cinematic shot\n"
+        },
+        {
+            "n1": "countryside\n"
+        },
+        {
+            "n1": "lucasfilm\n"
+        },
+        {
+            "n1": "ever after high\n"
+        },
+        {
+            "n1": "deep colours\n"
+        },
+        {
+            "n1": "accurate anatomy\n"
+        },
+        {
+            "n1": "black ink\n"
+        },
+        {
+            "n1": "dark room\n"
+        },
+        {
+            "n1": "man\n"
+        },
+        {
+            "n1": "abs\n"
+        },
+        {
+            "n1": "my rendition\n"
+        },
+        {
+            "n1": "star wars expanded universe\n"
+        },
+        {
+            "n1": "cute - fine - face\n"
+        },
+        {
+            "n1": "galaxies\n"
+        },
+        {
+            "n1": "golden light\n"
+        },
+        {
+            "n1": "bio luminescent\n"
+        },
+        {
+            "n1": "above view\n"
+        },
+        {
+            "n1": "fujita goro\n"
+        },
+        {
+            "n1": "beautiful girl\n"
+        },
+        {
+            "n1": "tubes\n"
+        },
+        {
+            "n1": "from league of legends\n"
+        },
+        {
+            "n1": "arstation\n"
+        },
+        {
+            "n1": "relaxing\n"
+        },
+        {
+            "n1": "visionary art\n"
+        },
+        {
+            "n1": "anime aesthetic\n"
+        },
+        {
+            "n1": "side portrait\n"
+        },
+        {
+            "n1": "sunrise dramatic light\n"
+        },
+        {
+            "n1": "fractal flame\n"
+        },
+        {
+            "n1": "sand\n"
+        },
+        {
+            "n1": "colors\n"
+        },
+        {
+            "n1": "dreamscape\n"
+        },
+        {
+            "n1": "8k hdr\n"
+        },
+        {
+            "n1": "geometry\n"
+        },
+        {
+            "n1": "150 mm lens\n"
+        },
+        {
+            "n1": "3 d shading\n"
+        },
+        {
+            "n1": "pastoral\n"
+        },
+        {
+            "n1": "print\n"
+        },
+        {
+            "n1": "brutalist\n"
+        },
+        {
+            "n1": "artificial intelligence\n"
+        },
+        {
+            "n1": "playful\n"
+        },
+        {
+            "n1": "intricate drawing\n"
+        },
+        {
+            "n1": "cinematographic\n"
+        },
+        {
+            "n1": "8k post-production\n"
+        },
+        {
+            "n1": "donald trump\n"
+        },
+        {
+            "n1": "shadowy\n"
+        },
+        {
+            "n1": "portrait photograph\n"
+        },
+        {
+            "n1": "8 k octane detailed render\n"
+        },
+        {
+            "n1": "dxo photolab\n"
+        },
+        {
+            "n1": "embers\n"
+        },
+        {
+            "n1": "mushrooms\n"
+        },
+        {
+            "n1": "outdoors\n"
+        },
+        {
+            "n1": "arney freytag\n"
+        },
+        {
+            "n1": "f2.8\n"
+        },
+        {
+            "n1": "comic art\n"
+        },
+        {
+            "n1": "giant\n"
+        },
+        {
+            "n1": "beautiful natural soft rim light\n"
+        },
+        {
+            "n1": "third eye\n"
+        },
+        {
+            "n1": "fashion editorial\n"
+        },
+        {
+            "n1": "houdini sidefx\n"
+        },
+        {
+            "n1": "8k hd render\n"
+        },
+        {
+            "n1": "expressive emotions\n"
+        },
+        {
+            "n1": "symmetrical composition\n"
+        },
+        {
+            "n1": "insanely intricate details\n"
+        },
+        {
+            "n1": "outstanding\n"
+        },
+        {
+            "n1": "yoh yoshinari\n"
+        },
+        {
+            "n1": "intricate and epic composition\n"
+        },
+        {
+            "n1": "4k photo\n"
+        },
+        {
+            "n1": "implants\n"
+        },
+        {
+            "n1": "ethereal lighting\n"
+        },
+        {
+            "n1": "deep colors\n"
+        },
+        {
+            "n1": "epic dreamlike fantasy landscape\n"
+        },
+        {
+            "n1": "hyperealistic\n"
+        },
+        {
+            "n1": "f/8\n"
+        },
+        {
+            "n1": "horror scene\n"
+        },
+        {
+            "n1": "portrait isometric drawing\n"
+        },
+        {
+            "n1": "morning light\n"
+        },
+        {
+            "n1": "evocative\n"
+        },
+        {
+            "n1": "very intricate ultrafine details\n"
+        }
+    ]
+}

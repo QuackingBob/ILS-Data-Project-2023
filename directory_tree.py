@@ -5,7 +5,7 @@ elbow = "└──"
 inter = "├──"
 tab = "  "
 
-ignore = ["__pycache__", ".git", ".gitignore"]
+ignore = ["__pycache__", ".git", ".gitignore", ".gitattributes"]
 
 def create_tree(root, depth=1, buffer=""):
     if (depth == 1):

@@ -4,9 +4,17 @@
 │  
 ├──combine_nodes.py
 │  
+├──construct_graph.py
+│  
+├──create_embeddings.py
+│  
 ├──data/
 │  │  
 │  ├──processed/
+│  │  │  
+│  │  ├──embeddings.pd
+│  │  │  
+│  │  └──flavors_combine_redundant.json
 │  │  
 │  └──raw/
 │     │  
@@ -56,6 +64,10 @@
 data/
 │  
 ├──processed/
+│  │  
+│  ├──embeddings.pd
+│  │  
+│  └──flavors_combine_redundant.json
 │  
 └──raw/
    │  

@@ -3,23 +3,24 @@ from torch.nn import CosineSimilarity
 from transformers import CLIPTokenizer, CLIPModel, CLIPTextModel
 import tqdm
 
-cos_sim = CosineSimilarity(dim=1, eps=1E-6)
+cos_sim = CosineSimilarity()
 
 def dist(v1, v2):
     return cos_sim(v1, v2)
 
 def get_embeddings(nodes, tokenizer, text_encoder, model, device):
-    text_inputs = tokenizer(
-        nodes, 
-        padding="max_length", 
-        return_tensors="pt",
-        ).to(device)
-    # text_features = model.get_text_features(**text_inputs)
-    text_embeddings = torch.flatten(text_encoder(text_inputs.input_ids.to(device))['last_hidden_state'],1,-1) # better results when cosine similarity is applied to flattened embeddings
+    with torch.no_grad():
+        text_inputs = tokenizer(
+            nodes, 
+            padding="max_length", 
+            return_tensors="pt",
+            ).to(device)
+        # text_features = model.get_text_features(**text_inputs) 
+        text_embeddings = torch.flatten(text_encoder(text_inputs.input_ids.to(device))['last_hidden_state'],1,-1) # better results when cosine similarity is applied to flattened embeddings
 
-    return text_embeddings
+        return text_embeddings.to("cpu")
 
-def batch_embeddings(nodes, tokenizer, text_encoder, model, device, batch_size):
+def batch_embeddings(nodes, tokenizer, text_encoder, model, device, batch_size, max_batch=1e4):
     with torch.no_grad():
         text_inputs = tokenizer(
             nodes, 
@@ -33,14 +34,23 @@ def batch_embeddings(nodes, tokenizer, text_encoder, model, device, batch_size):
         batched_input_ids = torch.split(input_ids, batch_size, dim=0)
         print(f"{len(batched_input_ids)} batches")
         batched_embeddings = []
+        batch_num = 0
 
         for batch_ids in tqdm.tqdm(batched_input_ids):
             batch_embeddings = torch.flatten(text_encoder(batch_ids)['last_hidden_state'], 1, -1)
-            batched_embeddings.append(batch_embeddings)
+            batched_embeddings.append(batch_embeddings.to("cpu"))
+            batch_num += 1
+            if batch_num > max_batch:
+                break
 
-    result_embeddings = torch.cat(batched_embeddings, dim=0)
+        # result_embeddings = torch.cat(batched_embeddings) # uses too much memory
 
-    return result_embeddings
+    # return result_embeddings
+    return batched_embeddings
+
+
+def unbatch_embeddings(batched_embeddings):
+    return torch.cat(batched_embeddings)
 
 
 def get_models(device, index=1):
