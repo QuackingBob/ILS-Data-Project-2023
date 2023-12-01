@@ -115,7 +115,7 @@ def construct_graph(nodes:dict, prompts:pd.DataFrame, threshold, tokenizer, text
 
 # more optimized than the previous function and directly computes the adjacency matrix (this is a bidirectional graph so I can just to matmul with the transpose)
 def construct_graph_adjacency(nodes:dict, prompts:pd.DataFrame, threshold, tokenizer, text_encoder, model, device):
-    # TODO optimize by running graph generation in parallel on multiple threads and then adding up the adjacency matrices
+    # TODO optimize by running graph generation in parallel on multiple threads and then adding up the adjacency matrices (if cpu, on gpu it's fast enough for now, does require ~7.5 gb of VRAM though it seems and my computer has 6 so i had to run on colab :< )
     with torch.no_grad():
         adjacency_mat = torch.zeros((len(nodes), len(nodes))).to(device)
         prompt_embeddings = unbatch_embeddings(batch_embeddings(prompts["text"].to_list(), tokenizer, text_encoder, model, device, batch_size=1024))
@@ -125,7 +125,7 @@ def construct_graph_adjacency(nodes:dict, prompts:pd.DataFrame, threshold, token
             prompt_embedding = prompt_embedding.unsqueeze(0).to(device)
 
             similarities = (dist(prompt_embedding, node_embeddings_tensor) > threshold).int()
-            temp_adj = torch.transpose(similarities) * similarities
+            temp_adj = torch.t(similarities) * similarities
             # nodes_to_connect = torch.nonzero(similarities).squeeze().tolist()
 
             # temp_adj = torch.zeros_like(adjacency_mat)

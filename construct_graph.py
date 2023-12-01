@@ -18,7 +18,7 @@ def main():
     data_file = "embeddings.pd"
     dataset_names = ["artists.txt", "mediums.txt", "movements.txt", "flavors"]
     output_dir = r"data/processed"
-    output_file_name = "graph2.csv"
+    output_file_name = "graph3.csv"
     output_id_name = "node_ids.json"
     prompt_data = r"prompt data/data/train-00000-of-00001.parquet"
 
@@ -29,11 +29,10 @@ def main():
     embedding_file = open(os.path.join(output_dir, data_file), "rb")
     node_dict = torch.load(embedding_file)
 
-    threshold = 0.7
+    threshold = 0.85
     num_samples = 4000
 
     nodes = {}
-    node_tensor = torch.zeros()
     node_ids = {}
     ids_categories = {}
     
@@ -47,13 +46,14 @@ def main():
             ids_categories[file_cont].append(curr_id)
             curr_id += 1
     
-    json_dict = {
-        "name" : output_id_name
-    }
-    json_dict["ids"] = node_ids
-    json_dict["cateogries"] = ids_categories
-    with open(os.path.join(output_dir, output_id_name), "w", encoding="utf-8") as outfile:
-        json.dump(json_dict, outfile)
+    if not os.path.exists(os.path.join(output_dir, output_id_name)):
+        json_dict = {
+            "name" : output_id_name
+        }
+        json_dict["ids"] = node_ids
+        json_dict["categories"] = ids_categories
+        with open(os.path.join(output_dir, output_id_name), "w", encoding="utf-8") as outfile:
+            json.dump(json_dict, outfile)
     
     data_frame = pd.read_parquet(os.path.join(data_path, prompt_data))
     print(data_frame.info())
