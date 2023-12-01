@@ -1,2 +1,3 @@
 __pycache__/
 data/processed/embeddings.pd
+data/processed/graph2.csv
