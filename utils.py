@@ -119,11 +119,11 @@ def construct_graph_adjacency(nodes:dict, prompts:pd.DataFrame, threshold, token
     with torch.no_grad():
         adjacency_mat = torch.zeros((len(nodes), len(nodes))).to(device)
         prompt_embeddings = unbatch_embeddings(batch_embeddings(prompts["text"].to_list(), tokenizer, text_encoder, model, device, batch_size=1024))
-
+        node_embeddings_tensor = torch.stack(list(nodes.values()))
+        
         for prompt_embedding in tqdm.tqdm(prompt_embeddings, total=prompts.shape[0]):
             prompt_embedding = prompt_embedding.unsqueeze(0).to(device)
 
-            node_embeddings_tensor = torch.stack(list(nodes.values()))
             similarities = (dist(prompt_embedding, node_embeddings_tensor) > threshold).int()
             temp_adj = similarities.T * similarities
             # nodes_to_connect = torch.nonzero(similarities).squeeze().tolist()

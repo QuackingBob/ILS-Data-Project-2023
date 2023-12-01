@@ -18,7 +18,7 @@ def main():
     data_file = "embeddings.pd"
     dataset_names = ["artists.txt", "mediums.txt", "movements.txt", "flavors"]
     output_dir = r"data/processed"
-    output_file_name = "graph.csv"
+    output_file_name = "graph2.csv"
     output_id_name = "node_ids.json"
     prompt_data = r"prompt data/data/train-00000-of-00001.parquet"
 
@@ -33,6 +33,7 @@ def main():
     num_samples = 4000
 
     nodes = {}
+    node_tensor = torch.zeros()
     node_ids = {}
     ids_categories = {}
     
