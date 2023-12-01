@@ -107,6 +107,24 @@ This is a serialized dump file made with torch.save that contains a dictionary o
 }
 ```
 
+**node_ids.json**
+
+This is a json file that contains the id for the node in the graph as well as a set of dictionaries for which id's correspond to which  categories. This file has the following structure:
+
+```json
+{
+    "name": "node_ids.json",
+    "ids": {
+	    "0" : "node name" // this dict contains the node id and the corresponding node text
+    },
+    "cateogries": {
+        "artists.txt": [0, 1, ...,], // this contains the list of ids which correspond to this category
+        "mediums.txt": [...,],
+        "movements.txt": [...,],
+        "flavors": [...,]
+    }
+}
+```
 ###### Code is provided to parse the json and pd files, and in case they no longer function, the scripts used to generate them are also provided so support can still exist for newer python or torch versions in case any major changes occur. 
 ## How to run the code:
 

@@ -17,6 +17,10 @@ def main():
     flavor_file_name = "flavors_combine_redundant.json"
     output_file_name = "embeddings.pd"
 
+    if not os.path.exists(os.path.join(output_dir, flavor_file_name)):
+        print("Could not find flavors combined file, please run combine_nodes.py first")
+        return
+
     batch_size = 1024
 
     nodes = [get_nodes_from_file(os.path.join(data_path, name)) for name in file_paths]
@@ -25,15 +29,15 @@ def main():
 
     flavor_file = open(os.path.join(output_dir, flavor_file_name), "r")
     flavor_nodes = [n["n1"] for n in json.load(flavor_file)["nodes"]]
-    flavor_embeddings = [unbatch_embeddings(batch_embeddings(flavor_nodes, tokenizer, text_encoder, model, device, batch_size))]
+    flavor_embeddings = unbatch_embeddings(batch_embeddings(flavor_nodes, tokenizer, text_encoder, model, device, batch_size))
     flavor_file.close()
 
     embed_dict = {}
 
     for i, name in enumerate(file_paths):
-        embed_dict[name] = zip(nodes[i], node_embeddings[i])
+        embed_dict[name] = list(zip(nodes[i], node_embeddings[i]))
     
-    embed_dict["flavors"] = zip(flavor_nodes, flavor_embeddings)
+    embed_dict["flavors"] = list(zip(flavor_nodes, flavor_embeddings))
 
     print("saving... ", end="")
 
