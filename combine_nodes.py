@@ -4,8 +4,9 @@ from utils import *
 import torch
 from transformers import CLIPTokenizer, CLIPModel, CLIPTextModel
 import tqdm
+import sys
 
-def main():
+def main(colabfp=False):
     # WARNING: cpu would be very slow
     device = "cuda" if torch.cuda.is_available() else "cpu"
     
@@ -14,6 +15,11 @@ def main():
     data_path = r"data/raw/flavors.txt"
     output_dir = r"data/processed"
     file_name = "flavors_combine_redundant.json"
+
+    if colabfp:
+        colab_dir = r"/content/ILS-Data-Project-2023/"
+        data_path = colab_dir + data_path
+        output_dir = colab_dir + output_dir
 
     theta = 0.95
     batch_size = 512
@@ -41,6 +47,7 @@ def main():
     #     if not added:
     #         filtered_nodes.append({"n1": (name, embed)})
 
+    # slow but done this way due to hardware constraints and, more importantly, laziness 
     with torch.no_grad():
         for index, name in tqdm.tqdm(enumerate(nodes), total=len(nodes)):
             batch_num = index // batch_size
@@ -68,4 +75,8 @@ def main():
     # I'm not saving the embeddings to a file because they are too large and can be recomputed from the names
 
 if __name__ == "__main__":
-    main()
+    use_colab_fp = False
+    if "--colabfp" in sys.argv:
+        print("using --colabfp")
+        use_colab_fp = True
+    main(colabfp=use_colab_fp)

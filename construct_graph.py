@@ -7,8 +7,9 @@ import tqdm
 import networkx as nx
 import pandas as pd
 import numpy as np
+import sys
 
-def main():
+def main(colabfp=False):
     # WARNING: cpu would be very slow
     device = "cuda" if torch.cuda.is_available() else "cpu"
     
@@ -21,6 +22,11 @@ def main():
     output_file_name = "graph3.csv"
     output_id_name = "node_ids.json"
     prompt_data = r"prompt data/data/train-00000-of-00001.parquet"
+
+    if colabfp:
+        colab_dir = r"/content/ILS-Data-Project-2023/"
+        data_path = colab_dir + data_path
+        output_dir = colab_dir + output_dir
 
     if not os.path.exists(os.path.join(output_dir, data_file)):
         print("Could not find embeddings file, please run create_embeddings.py first")
@@ -70,4 +76,8 @@ def main():
     print("done")
 
 if __name__ == "__main__":
-    main()
+    use_colab_fp = False
+    if "--colabfp" in sys.argv:
+        print("using --colabfp")
+        use_colab_fp = True
+    main(colabfp=use_colab_fp)

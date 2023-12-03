@@ -5,17 +5,22 @@ import os
 import json
 import tqdm
 from random import shuffle
+import sys
 
 def get_color(index:int, category_dict:dict, colors:list):
     for i, key in enumerate(list(category_dict.keys())):
         if index in category_dict[key]:
             return colors[i]
 
-def main():
+def main(colabfp=False):
     dataset_names = ["artists.txt", "mediums.txt", "movements.txt", "flavors"]
     output_dir = r"data/processed"
     output_file_name = "graph2.csv"
     output_id_name = "node_ids.json"
+
+    if colabfp:
+        colab_dir = r"/content/ILS-Data-Project-2023/"
+        output_dir = colab_dir + output_dir
 
     adjacency_matrix = np.loadtxt(os.path.join(output_dir, output_file_name), delimiter=",")
     json_dict = json.load(open(os.path.join(output_dir, output_id_name)))
@@ -154,4 +159,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    use_colab_fp = False
+    if "--colabfp" in sys.argv:
+        print("using --colabfp")
+        use_colab_fp = True
+    main(colabfp=use_colab_fp)
