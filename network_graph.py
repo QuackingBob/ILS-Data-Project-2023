@@ -25,19 +25,26 @@ def main():
 
     max_edges = 10000
     min_degree = 7000
-    num_nodes = 152
-    min_weight = 4000
+    num_nodes = 32 # 152
+    min_weight = 5000 # 4000
 
     print("Loading Graph ... ")
     G = nx.from_numpy_array(adjacency_matrix, create_using=nx.Graph())
 
+    # print stats
+    print("\tgraph stats:")
+    print(f"\t-nodes: {len(G.nodes)}")
+    degrees = [degree for node, degree in G.degree()]
+    print(f"\t-min node degree: {min(degrees)}") # -> 1715 we need to reduce nodes in the graph to only the largest or else it is extremely difficult to read
+    print(f"\t-max node degree: {max(degrees)}") # -> 7498 
+    weights = [np.sum(adjacency_matrix[node]) for node in G.nodes]
+    print(f"\t-min node weight: {min(weights)}") # -> 1715 we need to reduce nodes in the graph to only the largest or else it is extremely difficult to read
+    print(f"\t-max node weight: {max(weights)}") # -> 7498 
+
     # filter by degree
     print("\treducing degree")
-    # degrees = [degree for node, degree in G.degree()]
     remove = [node for node, degree in G.degree() if degree < min_degree]
     G.remove_nodes_from(remove)
-    # print(min(degrees)) # -> 1715 we need to reduce nodes in the graph to only the largest or else it is extremely difficult to read
-    # print(max(degrees)) # -> 7498 
     # G.remove_nodes_from(list(nx.isolates(G)))
 
     # filter by total weight
@@ -148,6 +155,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# G = nx.random_geometric_graph(200, 0.125)
-

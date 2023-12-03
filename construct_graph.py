@@ -29,7 +29,7 @@ def main():
     embedding_file = open(os.path.join(output_dir, data_file), "rb")
     node_dict = torch.load(embedding_file)
 
-    threshold = 0.85
+    threshold = 0.7 # 0.85
     num_samples = 4000
 
     nodes = {}
@@ -64,8 +64,10 @@ def main():
     # much faster by utilizing tensor operations and directly computing the adjacency matrix:
     adjacency_mat = construct_graph_adjacency(nodes, prompts, threshold, tokenizer, text_encoder, model, device)
 
+    print("saving ... ", end="")
     # torch.save(adjacency_mat, open(os.path.join(output_dir, output_file_name), "wb"))
     np.savetxt(os.path.join(output_dir, output_file_name), adjacency_mat, delimiter=',')
+    print("done")
 
 if __name__ == "__main__":
     main()

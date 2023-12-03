@@ -14,7 +14,11 @@
 │  │  │  
 │  │  ├──embeddings.pd
 │  │  │  
-│  │  └──flavors_combine_redundant.json
+│  │  ├──flavors_combine_redundant.json
+│  │  │  
+│  │  ├──graph.csv
+│  │  │  
+│  │  └──node_ids.json
 │  │  
 │  └──raw/
 │     │  
@@ -67,7 +71,11 @@ data/
 │  │  
 │  ├──embeddings.pd
 │  │  
-│  └──flavors_combine_redundant.json
+│  ├──flavors_combine_redundant.json
+│  │  
+│  ├──graph.csv
+│  │  
+│  └──node_ids.json
 │  
 └──raw/
    │  
