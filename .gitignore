@@ -3,3 +3,4 @@ data/processed/embeddings.pd
 data/processed/graph2.csv
 data/processed/graph3.csv
 temp.py
+nwgraph.ipynb

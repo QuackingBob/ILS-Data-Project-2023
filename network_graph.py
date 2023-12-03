@@ -12,6 +12,13 @@ def get_color(index:int, category_dict:dict, colors:list):
         if index in category_dict[key]:
             return colors[i]
 
+
+def get_top_n_indices(array, n, start_index, end_index):
+    sorted_indices = np.argsort(array)[::-1]
+    sorted_indices = sorted_indices[(sorted_indices >= start_index) & (sorted_indices <= end_index)]
+    top_n_indices = sorted_indices[:n]
+    return top_n_indices
+
 def main(colabfp=False):
     dataset_names = ["artists.txt", "mediums.txt", "movements.txt", "flavors"]
     output_dir = r"data/processed"
@@ -30,11 +37,26 @@ def main(colabfp=False):
 
     max_edges = 10000
     min_degree = 7000
-    num_nodes = 32 # 152
+    num_nodes = 64 # 152
     min_weight = 5000 # 4000
 
     print("Loading Graph ... ")
     G = nx.from_numpy_array(adjacency_matrix, create_using=nx.Graph())
+
+    node_info = {}
+    index_ranges = { cat:(category_dict[cat][0], category_dict[cat][-1]) for cat in list(category_dict.keys())}
+    categories = list(category_dict.keys())
+    num_comp = 3
+    for i in range(adjacency_matrix.shape[0]):
+        datastr = ""
+        for cat in categories:
+            datastr += f"{cat}\n"
+            n_num = 1
+            for idx in get_top_n_indices(adjacency_matrix[i], num_comp, index_ranges[cat][0], index_ranges[cat][1]):
+                datastr += f" {n_num}. {node_ids[str(idx)]}\n"
+                n_num += 1
+
+        node_info[i] = datastr
 
     # print stats
     print("\tgraph stats:")
@@ -84,7 +106,7 @@ def main(colabfp=False):
             hovermode='closest',
             margin=dict(b=20,l=5,r=5,t=40),
             annotations=[ dict(
-                text=f"Network Graph Showing Top {num_nodes} Nodes ",
+                text=f"Network Graph Showing Top {4 * (num_nodes // 4)} Nodes ",
                 showarrow=False,
                 xref="paper", yref="paper",
                 x=0.005, y=-0.002 ) ],
@@ -97,9 +119,10 @@ def main(colabfp=False):
         fig.add_trace(go.Scatter(
             x=[],
             y=[],
-            mode='markers',
+            mode='markers+text',
             text=f"{node_labels[node]}",
-            hoverinfo='text',
+            textposition="bottom center",
+            hovertemplate=f"{node_info[node]}",
             marker=dict(
                 size=10,
                 color=node_colors[node],

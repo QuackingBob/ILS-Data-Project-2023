@@ -8,7 +8,8 @@ licenses: apache 2.0, mit license
 #### The raw data is sourced from: 
 - [ATOMATIC1111/Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [Succinctly/Midjourney Prompts](https://huggingface.co/datasets/succinctly/midjourney-prompts)
-
+#### See the project in Google Colab
+- [Colab Repository ILS Project 2023 - Amanjyoti Mridha](https://colab.research.google.com/drive/17JivZvDI6Ckwc9G7FYrziiG9WZhwb1JW?usp=sharing)
 #### All data can be found in the data directory. This directory has the following structure:
 
 ```bash
