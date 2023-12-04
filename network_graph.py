@@ -36,9 +36,9 @@ def main(colabfp=False):
     colors = ["#011627", "#f71735", "#41ead4", "#fdfffc"] # ["#D6F9DD", "#99F7AB", "#ABDF75", "#60695C"]
 
     max_edges = 10000
-    min_degree = 7000
+    min_degree = 10
     num_nodes = 64 # 152
-    min_weight = 5000 # 4000
+    min_weight = 10 # 4000
 
     print("Loading Graph ... ")
     G = nx.from_numpy_array(adjacency_matrix, create_using=nx.Graph())
@@ -59,8 +59,6 @@ def main(colabfp=False):
                 n_num += 1
             datastr += "</br>"
         node_info[i] = node_ids[str(i)] + ": " + datastr
-
-        node_info[i] = datastr
 
     # print stats
     print("\tgraph stats:")
@@ -146,7 +144,7 @@ def main(colabfp=False):
             y=[],
             mode='lines',
             line=dict(
-                width=edge_weights[edge[0], edge[1]] / 100,
+                width=np.log(edge_weights[edge[0], edge[1]]),
                 color='#AAAAAA',
             ),
             hoverinfo='none',
