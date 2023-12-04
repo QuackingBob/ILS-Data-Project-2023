@@ -124,7 +124,7 @@ def construct_graph_adjacency(nodes:dict, prompts:pd.DataFrame, threshold, token
         for prompt_embedding in tqdm.tqdm(prompt_embeddings, total=prompts.shape[0]):
             prompt_embedding = prompt_embedding.unsqueeze(0).to(device)
 
-            similarities = (dist(prompt_embedding, node_embeddings_tensor) > threshold).int()
+            similarities = (dist(prompt_embedding, node_embeddings_tensor) > threshold).int().unsqueeze(0)
             temp_adj = torch.t(similarities) * similarities
             # nodes_to_connect = torch.nonzero(similarities).squeeze().tolist()
 

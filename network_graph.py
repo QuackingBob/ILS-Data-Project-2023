@@ -22,7 +22,7 @@ def get_top_n_indices(array, n, start_index, end_index):
 def main(colabfp=False):
     dataset_names = ["artists.txt", "mediums.txt", "movements.txt", "flavors"]
     output_dir = r"data/processed"
-    output_file_name = "graph2.csv"
+    output_file_name = "graph.csv"
     output_id_name = "node_ids.json"
 
     if colabfp:
@@ -50,11 +50,15 @@ def main(colabfp=False):
     for i in range(adjacency_matrix.shape[0]):
         datastr = ""
         for cat in categories:
-            datastr += f"{cat}\n"
+            datastr += f"<br>{cat}: "
             n_num = 1
             for idx in get_top_n_indices(adjacency_matrix[i], num_comp, index_ranges[cat][0], index_ranges[cat][1]):
-                datastr += f" {n_num}. {node_ids[str(idx)]}\n"
+                datastr += f" {n_num}. {node_ids[str(idx)]}"
+                if n_num < num_comp:
+                  datastr += ","
                 n_num += 1
+            datastr += "</br>"
+        node_info[i] = node_ids[str(i)] + ": " + datastr
 
         node_info[i] = datastr
 
